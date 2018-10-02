@@ -1,0 +1,792 @@
+16 Message-Topic(e1,e2) It was a friendly E1_START call E1_END to remind them about the E2_START bill E2_END and make sure they have a copy of the invoice .
+21 Entity-Origin(e1,e2) Their E1_START knowledge E1_END of the power and rank symbols of the Continental empires was gained from the numerous Germanic E2_START recruits E2_END in the Roman army , and from the Roman practice of enfeoffing various Germanic warrior groups with land in the imperial provinces .
+33 Product-Producer(e1,e2) The silver-haired author was not just laying India 's politician saint to rest but healing a generations-old rift in the family of the E1_START country E1_END 's founding E2_START father E2_END .
+34 Entity-Destination(e1,e2) It describes a method for loading a horizontal E1_START stack E1_END of containers into a E2_START carton E2_END .
+36 Entity-Origin(e1,e2) The technology is available to produce and transmit E1_START electricity E1_END economically from OTEC E2_START systems E2_END .
+39 Cause-Effect(e1,e2) Financial E1_START stress E1_END is one of the main causes of E2_START divorce E2_END .
+41 Cause-Effect(e1,e2) The E1_START women E1_END that caused the E2_START accident E2_END was on the cell phone and ran thru the intersection without pausing on the median .
+50 Other HipHop appropriates the symbols of a consumer society : oversized E1_START diamond E1_END E2_START colliers E2_END are worn .
+103 Cause-Effect(e2,e1) Arcane Subtlety reduced the threat caused by Polymorph by 40 % at max rank , though the E1_START threat E1_END caused by the E2_START spell E2_END is minimal .
+108 Instrument-Agency(e2,e1) From the Scots -LRB- Lingle -RRB- and French -LRB- Ligneul , Lignoul -RRB- , comes a E1_START shoemaker E1_END 's sewing E2_START thread E2_END , waxed and bristled -LRB- See Waxed End -RRB- .
+119 Component-Whole(e1,e2) The picture below shows a view chapel and west range of the inner E1_START courtyard E1_END of the E2_START castle E2_END .
+124 Message-Topic(e1,e2) One of the trickiest E1_START questions E1_END to answer in an interview relates to E2_START salary E2_END .
+141 Other The E1_START formation E1_END of struvite E2_START stones E2_END is associated with the presence of urea-splitting bacteria , most commonly Proteus mirabilis -LRB- but also Klebsiella , Serratia , Providencia species -RRB- .
+146 Member-Collection(e2,e1) Flames of purple , pink , yellow and blue dance in the air as a E1_START coven E1_END of E2_START sorcerers E2_END call forth energies from within the Empyrean .
+153 Message-Topic(e1,e2) The E1_START chapters E1_END in this book investigate E2_START issues E2_END and communities .
+161 Component-Whole(e2,e1) I have recently developed creases in my E1_START ear E1_END E2_START lobes E2_END .
+162 Entity-Origin(e2,e1) Manufacturing extra neutral E1_START alcohol E1_END which is the basic ingredient used for making E2_START liquor E2_END , the commodity was largely used by companies making Indian Made Foreign Liquor -LRB- IMFL -RRB- .
+164 Component-Whole(e2,e1) The E1_START province E1_END comprises the southeastern E2_START part E2_END of Panay Island with island-province of Guimaras just across its coast .
+183 Other We have placed the E1_START candidates E1_END into E2_START roles E2_END .
+186 Component-Whole(e1,e2) The E1_START nasal cavity E1_END of E2_START birds E2_END contains turbinates -LRB- Bang 1971 -RRB- , cartilaginous structures that are thought to have as one of their functions water recovery from air .
+202 Entity-Origin(e1,e2) The bottom E1_START photo E1_END is from the New York public E2_START library E2_END .
+205 Content-Container(e1,e2) The E1_START dress E1_END was in a E2_START trunk E2_END dated summer of 1938 along with several other dresses from this same period .
+217 Entity-Origin(e1,e2) The geometric E1_START skeleton E1_END is derived from a static E2_START object E2_END using an implicit ` directions ' method .
+223 Cause-Effect(e2,e1) Plantar E1_START warts E1_END are caused by a E2_START virus E2_END that infects the outer layer of skin on the soles of the feet .
+227 Component-Whole(e1,e2) The E1_START rope E1_END of the E2_START prayer-bell E2_END was there in a perfect state and coiled up .
+243 Member-Collection(e2,e1) I reflected on this while passing a E1_START passel E1_END of E2_START pigeons E2_END parading on a Loop sidewalk the other day .
+250 Other The E1_START hotel E1_END arose from the E2_START reconstruction E2_END of historical building .
+261 Member-Collection(e2,e1) There are enough gills there to serve the oxygen demands of an entire E1_START shiver E1_END of whale E2_START sharks E2_END .
+280 Entity-Destination(e1,e2) He inserted a E1_START needle E1_END into the tattoo E2_START machine E2_END .
+295 Content-Container(e1,e2) The E1_START mummy E1_END originally was inside a E2_START wooden coffin E2_END , which had deteriorated .
+305 Entity-Destination(e1,e2) In a desperate attempt , the company poured E1_START money E1_END into the E2_START project E2_END .
+307 Component-Whole(e2,e1) The temperature at which E1_START flower E1_END E2_START buds E2_END are injured depends .
+308 Content-Container(e1,e2) Her E1_START clothes E1_END were in a E2_START box E2_END with no lid sitting on the next higher step .
+340 Other The purpose of the E1_START audit E1_END was to report on the E2_START financial statements E2_END .
+343 Content-Container(e1,e2) The body is already removed for an autopsy and placed in a lead E1_START coffin E1_END , which is put inside a wooden E2_START case E2_END .
+344 Cause-Effect(e2,e1) The increase of the signal might correspond to formation of the high-density excitons , while the E1_START reduction E1_END of the signal originates from the E2_START relaxation E2_END .
+346 Component-Whole(e2,e1) The E1_START robot E1_END reached the goal using a smaller number of internal E2_START states E2_END than with the conventional methods .
+349 Instrument-Agency(e2,e1) A E1_START teacher E1_END writes a whole number less than 50000 on the E2_START blackboard E2_END .
+354 Product-Producer(e1,e2) This has made it much richer , rather like fried bread and altogether different from the crisp E1_START rectangles E1_END produced by the modern E2_START cook E2_END .
+357 Message-Topic(e2,e1) The faded E1_START glamour E1_END of American roadside diners , cinemas and motels is the subject of a new photography E2_START exhibition E2_END at the Fox Talbot Museum .
+365 Entity-Destination(e1,e2) Past E1_START consciousness E1_END is travelling into the E2_START future E2_END .
+372 Entity-Origin(e1,e2) One of my woodworkers got imprisoned as a result of a bloody noble putting up an export ban after the E1_START caravan E1_END had left the E2_START depo E2_END .
+390 Entity-Destination(e1,e2) The E1_START intestines E1_END have migrated into the E2_START abdomen E2_END from the umbilical cord .
+399 Entity-Destination(e1,e2) The remaining E1_START power E1_END is exported to the E2_START grid E2_END .
+405 Member-Collection(e2,e1) Her shallow waters seethe at times , standing tall and swaying back and forth like a E1_START quiver E1_END of king E2_START cobras E2_END .
+413 Instrument-Agency(e2,e1) A E1_START surgeon E1_END carefully applies the E2_START splints E2_END to the forearm .
+421 Cause-Effect(e2,e1) Passengers have rights in the event of a delay or E1_START cancellation E1_END that has been caused by the E2_START airline E2_END .
+428 Cause-Effect(e2,e1) However Susanoo was in E1_START sorrow E1_END after the E2_START loss E2_END of his mother and he was raging in his kingdom .
+437 Product-Producer(e1,e2) When the Amendment was transcribed , the semicolon in the religious exemption portion was changed to a E1_START comma E1_END by the Senate E2_START scribe E2_END .
+447 Entity-Origin(e1,e2) Much of the E1_START impetus E1_END behind the formation of the fund came from a wounded Vietnam E2_START veteran E2_END .
+459 Product-Producer(e1,e2) For many years , a recurring E1_START comment E1_END by the senior dental E2_START students E2_END at Louisiana State University School of Dentistry -LRB- LSUSD -RRB- during exit interviews is their lack of confidence regarding the business aspects of running a dental practice .
+477 Entity-Origin(e1,e2) The E1_START clarinet E1_END developed from the E2_START recorder family E2_END , and is closely related to the saxophone .
+483 Member-Collection(e2,e1) There 's a E1_START trembling E1_END of E2_START finches E2_END on my lawn .
+491 Member-Collection(e2,e1) In addition to Weinstein , the band is comprised of a formidable E1_START array E1_END of E2_START luminaries E2_END .
+510 Entity-Destination(e1,e2) English E1_START cricket E1_END has now been dragged into the whole revolting E2_START business E2_END .
+517 Cause-Effect(e1,e2) Like a catch-22 the worst part is that acne causes stress and E1_START stress E1_END triggers acne E2_START breakouts E2_END .
+520 Instrument-Agency(e1,e2) The size of the E1_START scissors E1_END used by a beginning E2_START stylist E2_END for learning to cut the hair is actually determined more by the size of his or her hands .
+527 Content-Container(e1,e2) My E1_START passport E1_END was in a E2_START trunk E2_END under my bed .
+536 Cause-Effect(e1,e2) Diet fizzy E1_START drinks E1_END and meat cause heart disease and E2_START diabetes E2_END .
+554 Content-Container(e1,e2) A E1_START comb E1_END was hidden in an E2_START envelope E2_END at the bottom of a paper folder stuck to the wall .
+560 Component-Whole(e1,e2) In my case the solution was to lock the E1_START padlock E1_END on the security E2_START pane E2_END itself .
+570 Content-Container(e1,e2) The freshness of E1_START ale E1_END in a E2_START carton E2_END is the limiting factor .
+596 Component-Whole(e1,e2) The E1_START pouches E1_END of female E2_START wallabies E2_END , like those of other macropods , are front-opening .
+602 Cause-Effect(e2,e1) In businesses generally the third party claims for the E1_START damages E1_END that has been caused by the company E2_START vehicle E2_END .
+614 Other Secretary Tim Geithner came along with a E1_START fistful E1_END of taxpayer E2_START dollars E2_END .
+632 Product-Producer(e1,e2) This E1_START document E1_END is issued from 28 E2_START locations E2_END across the country and 160 Indian missions abroad .
+636 Component-Whole(e1,e2) I especially love the way the E1_START scroll wheel E1_END of the E2_START mouse E2_END riffles through the tabs ; it 's so fast and easy .
+648 Message-Topic(e1,e2) On the border issue , the original E1_START draft E1_END had declared some initial E2_START borders E2_END , which are to be confirmed and decided by the UN partition plan .
+654 Member-Collection(e2,e1) A E1_START drove E1_END of E2_START oxen E2_END was taken to market .
+677 Entity-Origin(e1,e2) The E1_START call E1_END came from a Minnesota E2_START father E2_END who said his daughter was in the chapel that day .
+680 Member-Collection(e2,e1) Charles Beauregard is still working for Intelligence and hears about the Red Baron flying ace and his E1_START circus E1_END of vampire E2_START fighters E2_END .
+685 Entity-Destination(e1,e2) Many E1_START builders E1_END have approached the colony 's E2_START building committee E2_END for redevelopment projects .
+698 Component-Whole(e2,e1) She double clicked the E1_START mouse E1_END E2_START button E2_END by placing her finger on the left mouse-button and then quickly pressing and releasing the button two times .
+699 Entity-Origin(e1,e2) A E1_START man E1_END who fell from a E2_START bridge E2_END along Interstate 29/35 after running from a minor crash has died .
+724 Other A E1_START month E1_END of snowy E2_START sundays E2_END in January had an adverse impact on Prospect 's finances .
+726 Entity-Destination(e1,e2) The E1_START items E1_END have been donated to the E2_START museum E2_END of Thracian Art .
+741 Other Three shark attacks in 24 hours threw local E1_START people E1_END into E2_START panic E2_END .
+748 Entity-Destination(e1,e2) The E1_START implant E1_END is placed into the E2_START jaw bone E2_END .
+750 Entity-Destination(e1,e2) Background E1_START music E1_END is added into E2_START slideshows E2_END .
+769 Component-Whole(e1,e2) Below is a list of the E1_START books E1_END of the E2_START bible E2_END .
+778 Member-Collection(e2,e1) Wales ' Commonwealth hopefuls impressed the gathered E1_START throng E1_END of E2_START spectators E2_END at the Norwich Union International this weekend .
+781 Other E1_START Quotation E1_END is used to indicate the E2_START words E2_END of another speaker or writer .
+806 Cause-Effect(e2,e1) For decades , most of the nation 's renewable E1_START power E1_END has come from E2_START dams E2_END , which supplied cheap electricity without requiring fossil fuels .
+808 Component-Whole(e2,e1) The E1_START stapler E1_END comprises a stapling head -LRB- 2 -RRB- and an E2_START anvil E2_END -LRB- 3 -RRB- .
+830 Content-Container(e1,e2) The E1_START chair E1_END was in a E2_START crate E2_END and then completely wrapped in cellophane and then bubble wrap .
+846 Entity-Origin(e1,e2) When the E1_START king E1_END had left the E2_START apartment E2_END , she withdrew her hand .
+856 Message-Topic(e2,e1) The E1_START early years E1_END of autism is the topic of E2_START discussion E2_END .
+876 Message-Topic(e1,e2) Today , for the first time in the UK , full examination E1_START papers E1_END in E2_START chemistry E2_END and mathematics set for 16-year-old school pupils in the People 's Republic of China are to be published in English and made widely available .
+877 Cause-Effect(e2,e1) The E1_START disruption E1_END has been caused by a sensitivity reaction in the brain to an ingested E2_START substance E2_END .
+887 Product-Producer(e2,e1) The E1_START officer E1_END swore an E2_START oath E2_END of secrecy on becoming a sky marshal , so his name ca n't be revealed .
+896 Message-Topic(e1,e2) This E1_START leaflet E1_END gives a summary of holiday E2_START entitlements E2_END .
+914 Entity-Destination(e1,e2) The cancer E1_START cells E1_END have increasingly been moving into the E2_START bone E2_END .
+915 Entity-Destination(e1,e2) This Christmas , E1_START visitors E1_END travelled to the E2_START vineyard E2_END by the free bus .
+921 Component-Whole(e2,e1) The E1_START accommodation E1_END briefly comprises of E2_START hall E2_END , downstairs w.c. , lounge , kitchen , three bedrooms and bathroom .
+925 Member-Collection(e2,e1) On the Seleucid right flank Atticus deployed the elite companions screened by a single E1_START unit E1_END of Scythian horse E2_START archers E2_END .
+928 Entity-Destination(e1,e2) E1_START Job listings E1_END in India have been added to our E2_START careers section E2_END .
+970 Cause-Effect(e2,e1) The E1_START vibration E1_END caused by a heavy goods E2_START train E2_END on the Metropolitan Railway , which runs under the Exhibition premises , had shaken the figure off its balance .
+979 Cause-Effect(e2,e1) The cutaneous E1_START mycoses E1_END are caused by a homogeneous group of keratinophilic E2_START fungi E2_END termed the dermatophytes .
+993 Other I 've been a E1_START closet E1_END E2_START writer E2_END for a long time .
+994 Message-Topic(e1,e2) The Commission submitted to the Council and the European Parliament a E1_START report E1_END on the E2_START application E2_END and conditions of implementation of the Agreement .
+1009 Entity-Origin(e2,e1) The Perrault E1_START version E1_END is the source of the most familiar Cinderella E2_START tale E2_END .
+1019 Message-Topic(e1,e2) This is a short E1_START film E1_END with 12 minutes duration on the E2_START life E2_END of a live statue - a mimo - on the streets of Florence , Italy .
+1035 Cause-Effect(e2,e1) However , a E1_START headache E1_END from E2_START wine E2_END is often stronger and last longer due to several compounds .
+1048 Other The 180 cm thick concrete E1_START shield E1_END starts at the E2_START radius E2_END of 600 cm .
+1061 Message-Topic(e1,e2) A variety of methods are known , but only a few E1_START papers E1_END give details of equipment E2_START construction E2_END .
+1073 Product-Producer(e1,e2) A news E1_START release E1_END from the E2_START gallery E2_END , however , told a different story .
+1078 Entity-Destination(e1,e2) Disposed perchlorate-based products have released E1_START perchlorate E1_END into the E2_START soil E2_END .
+1088 Member-Collection(e2,e1) Baur and Adams found on Albemarle a E1_START rookery E1_END of white E2_START herons E2_END .
+1089 Other It is an Eden invented by the E1_START poet E1_END 's E2_START imagination E2_END into which external values are not disregarded , but have been absorbed and re-invented .
+1095 Content-Container(e1,e2) The clay E1_START model E1_END was in a E2_START jar E2_END wrapped in a Daily Mirror from 1947 .
+1101 Content-Container(e2,e1) Given the choice , I much prefer to have products with natural ingredient than have a E1_START bottle E1_END full of E2_START chemicals E2_END .
+1114 Entity-Destination(e1,e2) A temporary E1_START password E1_END has been sent to your E2_START email E2_END .
+1116 Entity-Origin(e1,e2) A E1_START student E1_END went away from an E2_START interview E2_END buoyed up by wise and wholesome advice .
+1118 Component-Whole(e2,e1) The E1_START book E1_END includes a 13-page E2_START index E2_END , which is quite extensive for a volume of this length .
+1120 Content-Container(e2,e1) All I had left were two pairs of shorts , one pair of underwear , a pair of slippers , a purse and a E1_START suitcase E1_END with some important E2_START papers E2_END in it .
+1142 Instrument-Agency(e2,e1) After the pottery is formed , either by a E1_START potter E1_END 's E2_START wheel E2_END or more primitive means , it has been left to thoroughly dry .
+1158 Message-Topic(e1,e2) The E1_START newsletter E1_END tells of practical E2_START projects E2_END developed to help those affected by the pandemic .
+1161 Member-Collection(e2,e1) The E1_START nye E1_END of E2_START pheasants E2_END had increased to 23 , including four cock birds .
+1175 Message-Topic(e2,e1) Sun E1_START astronomy E1_END is explored in this E2_START book E2_END with large type , full-page color photos , and a word list for young readers .
+1181 Instrument-Agency(e2,e1) The E1_START general E1_END reached the city by E2_START train E2_END from Worcester at 6 , and was received by a delegation from the military of the city , accompanied by the Brigade Band .
+1186 Entity-Destination(e1,e2) Last week , the E1_START troops E1_END moved into a dangerous war E2_START zone E2_END .
+1207 Component-Whole(e2,e1) This documentary graphic E1_START novel E1_END brings together starkly beautiful black and white E2_START photographs E2_END taken by Lefevre .
+1208 Entity-Origin(e1,e2) His E1_START perspective E1_END was gained from a E2_START knowledge E2_END of history and theology .
+1211 Other He followed a specific procedure for obtaining the E1_START engineer E1_END 's E2_START permit E2_END in Quebec and met certain requirements to receive an engineer 's permit .
+1213 Message-Topic(e1,e2) Fact Magazine was an American E1_START publication E1_END that commented on E2_START controversial topics E2_END .
+1221 Other They discovered a good bit of published literature about E1_START modification E1_END of yeast with resveratrol-related E2_START genes E2_END .
+1225 Component-Whole(e2,e1) A few bare-bodied young lads were standing on the rod of the E1_START tram E1_END 's E2_START wheel E2_END , hanging on to the windows with one hand .
+1229 Other The E1_START company E1_END has assembled five independent food safety E2_START experts E2_END to serve on its newly formed Food Safety Advisory Council .
+1236 Other The E1_START fun run E1_END starts at E2_START noon E2_END .
+1244 Entity-Destination(e1,e2) A Japanese E1_START ferry E1_END ran into a E2_START whale E2_END .
+1247 Cause-Effect(e1,e2) Amtrak expects a normal rush hour after a fatal E1_START accident E1_END near Baltimore caused E2_START delays E2_END along the Northeast corridor .
+1253 Member-Collection(e2,e1) They signed him up and sent him to Dakar , to a E1_START regiment E1_END of Senegalese E2_START infantrymen E2_END that was leaving for Verdun in 1917 .
+1266 Member-Collection(e2,e1) In autumn , a E1_START gaggle E1_END of tagged Canada E2_START geese E2_END takes over the waterfront lawn and wild ducks land on the lake .
+1283 Other This is based on the notion that a human is basically a E1_START purpose E1_END driven E2_START animal E2_END .
+1288 Product-Producer(e2,e1) E1_START Students E1_END and local residents have worked together to produce 10000 E2_START bricks E2_END , and the mason has completed most of the work on the first guest house .
+1307 Other While making E1_START observations E1_END of the microfossil through the binocular E2_START microscope E2_END or on a computer monitor , the investigator needed to manually move the specimen .
+1334 Entity-Destination(e1,e2) An unnamed E1_START lifeguard E1_END was pushed into the E2_START pool E2_END .
+1340 Component-Whole(e2,e1) Two other structures in the depth of the E1_START midbrain E1_END that are important for normal motor function are the red E2_START nucleus E2_END -LRB- not visible -RRB- and the substantia nigra .
+1348 Component-Whole(e1,e2) The feed wire connecting the two E1_START blades E1_END of the E2_START antenna E2_END has a length of 4 mm and a radius of 0.01 mm .
+1354 Message-Topic(e2,e1) As a little boy , he learned about E1_START politics E1_END from the E2_START parodies E2_END done on Saturday Night Live .
+1366 Instrument-Agency(e2,e1) E1_START Employees E1_END increasingly are turning to E2_START medication E2_END - and away from therapy - to treat depression .
+1371 Member-Collection(e2,e1) Some are just strange such as parliament of owls , a E1_START knob E1_END of E2_START pochards E2_END , a cohort of zebras .
+1380 Member-Collection(e2,e1) The most famous E1_START unkindness E1_END of six E2_START ravens E2_END at the Tower of London are employees , kept on staff at the expense of the British government .
+1393 Entity-Destination(e1,e2) The user has entered his E1_START password E1_END into an authorized E2_START system E2_END .
+1413 Component-Whole(e2,e1) The first parcel he found was a E1_START rouleau E1_END of fifty E2_START dollars E2_END , the coins not having burst the paper enveloping them .
+1417 Member-Collection(e2,e1) The rescue adoption room was filled with a E1_START kindle E1_END of E2_START kittens E2_END .
+1432 Other The valuable E1_START book E1_END has arrived into my E2_START care E2_END .
+1440 Other The E1_START users E1_END are running into E2_START problems E2_END with the installer .
+1450 Other The rock 'n' roll E1_START business E1_END is falling into E2_START self-parody E2_END .
+1456 Entity-Destination(e1,e2) The E1_START liver E1_END from the donor has been successfully transported into the E2_START patient E2_END .
+1467 Entity-Destination(e1,e2) Categorical E1_START data E1_END were misplaced into the wrong E2_START category E2_END .
+1471 Other He underlined the tiny E1_START sacrifices E1_END made by Western E2_START armies E2_END in comparison with those of the Red Army .
+1483 Entity-Origin(e2,e1) Canned E1_START peach E1_END E2_START syrup E2_END was cooked for three minutes with a half-glass of raspberry jelly , this for color and to give a peach-melba flavor .
+1523 Cause-Effect(e1,e2) Williams syndrome : a genetic E1_START disorder E1_END that results in selective cognitive E2_START impairment E2_END .
+1524 Other A Chowchilla man is behind bars , after a pipe E1_START bomb E1_END was discovered inside a mobile E2_START home E2_END .
+1526 Instrument-Agency(e2,e1) This simple E1_START script E1_END uses the DBI E2_START module E2_END in order to connect to a Mysql database , retrieves the results from a select query and display the results .
+1541 Cause-Effect(e2,e1) The risks to housing and general corporate E1_START profits E1_END from E2_START inflation E2_END were quite clear and the defensive strategy over the long term has paid dividends .
+1545 Cause-Effect(e2,e1) There is relatively little E1_START discomfort E1_END from this E2_START surgery E2_END and most individuals rarely take more than Tylenol for their discomfort .
+1564 Other In future Britain , charismatic delinquent Alex DeLarge is jailed and later volunteers for an experimental aversion E1_START therapy E1_END developed by the E2_START government E2_END in an effort to solve society 's crime problem .
+1569 Entity-Destination(e1,e2) The company sent floral E1_START bouquets E1_END to a E2_START city E2_END in Ireland .
+1584 Message-Topic(e2,e1) It covers the E1_START basic concepts E1_END in a clean and slick E2_START tutorial E2_END .
+1592 Member-Collection(e1,e2) To cover all areas , I 've included coffee pot and E1_START cups E1_END in a neat E2_START stack E2_END on the table , so that the meal has both a beginning and an end feel to it .
+1594 Component-Whole(e2,e1) The E1_START book E1_END comprises ten E2_START chapters E2_END .
+1600 Product-Producer(e2,e1) The E1_START factory E1_END produced British military E2_START rifles E2_END , muskets and swords from 1816 .
+1625 Entity-Origin(e2,e1) Cloud loss behaviour in pasteurized E1_START apricot E1_END E2_START nectar E2_END was found to be different from that of other fruit juices .
+1631 Content-Container(e2,e1) The waiter returns with a E1_START bottle E1_END full of E2_START wine E2_END , pours a small amount in the glass for tasting .
+1638 Other We are determined to pursue the E1_START conquest E1_END of evil with the E2_START good E2_END .
+1659 Message-Topic(e1,e2) In the mechanical department the course includes a variety of previously published E1_START studies E1_END having relation to applied E2_START mechanics E2_END , the art of construction , and mechanical drawing .
+1660 Message-Topic(e1,e2) There are many theories and E1_START thoughts E1_END about the E2_START effects E2_END of the moon on people , animals , and the natural world .
+1661 Component-Whole(e1,e2) When the E1_START arm E1_END of the E2_START patient E2_END is meticulously placed at the right atrium level in both positions , the difference is even greater than when the arm rests on the desk or on the arm support of the chair .
+1673 Instrument-Agency(e1,e2) The E1_START generator E1_END powered a nearby aluminium E2_START factory E2_END , considered vital to the German war effort .
+1675 Entity-Destination(e1,e2) The E1_START water E1_END was drained into the second water drain E2_START tank E2_END through the connecting pipes .
+1681 Content-Container(e1,e2) The E1_START money E1_END was hidden in an air-conditioning system 's E2_START return duct E2_END , which conveniently connected to the room behind .
+1690 Member-Collection(e2,e1) This an E1_START alliance E1_END of various E2_START elements E2_END connected into the political elite with the old PRD forces , who have adopted a strategy of postponing efforts to lead any fight with the domestic bourgeoisie .
+1707 Instrument-Agency(e1,e2) A E1_START van E1_END used by E2_START debtors E2_END in the business of transporting passengers was a tool of the trade for lien avoidance purposes .
+1711 Entity-Origin(e1,e2) Half of the new E1_START subscribers E1_END hailed from China 's vast E2_START countryside E2_END .
+1728 Cause-Effect(e1,e2) E1_START Frustrations E1_END , threats , and conflicts cause E2_START stress E2_END .
+1734 Instrument-Agency(e2,e1) Player one can become white and block all the bullets while E1_START player E1_END two blasts the boss with the opposite E2_START color E2_END .
+1739 Member-Collection(e2,e1) Simon roused himself slowly from a wonderful dream revolving around a whole E1_START pryde E1_END of baby E2_START griffins E2_END , just waiting for him to play with them .
+1740 Component-Whole(e2,e1) Topping is the indiscriminate removal of a E1_START tree E1_END 's E2_START crown E2_END , cutting off large branches and the main stem of the tree , leaving large branch stubs .
+1750 Entity-Destination(e1,e2) The E1_START corpses E1_END were then placed in cotton cloth E2_START wrappings E2_END and put inside of a wooden case that was put inside of another case that was decorated with details of their life and a mask of their face .
+1763 Entity-Destination(e1,e2) The E1_START slaves E1_END were brought into the E2_START country E2_END against their will .
+1764 Cause-Effect(e2,e1) In a two-mirror telescope equipped with an active optics system usually M2 is used to correct the E1_START aberrations E1_END originated by optical E2_START reasons E2_END , i.e. defocus and coma .
+1767 Member-Collection(e2,e1) Other ritual practices attributed to berserks represent the initiation of the young warrior into a E1_START band E1_END of E2_START berserkers E2_END .
+1770 Cause-Effect(e1,e2) Snails and E1_START slugs E1_END cause E2_START damage E2_END to seedlings , flowers , vegetables and shrubs .
+1771 Other Even in World War II , American E1_START soldiers E1_END targeted the men with the E2_START katanas E2_END first because their killing power was feared and respected .
+1775 Entity-Destination(e1,e2) Modern economists have exported equilibrium E1_START concepts E1_END to political E2_START science E2_END .
+1778 Cause-Effect(e1,e2) The E1_START snowstorm E1_END caused a major E2_START catastrophe E2_END on the West Virginia Turnpike .
+1796 Member-Collection(e2,e1) The county fair drew a large E1_START crowd E1_END of USDA E2_START employees E2_END .
+1802 Message-Topic(e2,e1) E1_START Standards E1_END at a secondary school are criticised in a E2_START report E2_END by the inspection body .
+1809 Entity-Destination(e1,e2) The Civil Rights Hero E1_START award E1_END was bestowed to a disability rights E2_START activist E2_END .
+1812 Entity-Origin(e1,e2) One day the little orphan E1_START boy E1_END ran away from the E2_START orphanage E2_END .
+1844 Message-Topic(e1,e2) The E1_START book E1_END created a picture of social and religious E2_START identity E2_END .
+1851 Entity-Destination(e1,e2) Industries have pushed E1_START fishermen E1_END into fragile marine E2_START reserves E2_END .
+1855 Entity-Origin(e1,e2) But the E1_START result E1_END was derived from a small number of actual HIV E2_START cases E2_END .
+1895 Message-Topic(e1,e2) This E1_START book E1_END supplies us with a good deal of E2_START material E2_END for his biography .
+1902 Product-Producer(e1,e2) The website cited E1_START notes E1_END made by an E2_START investigator E2_END from the Los Angeles County Coroner 's office as the source of the information .
+1916 Product-Producer(e2,e1) The E1_START editor E1_END improved the manuscript with his E2_START changes E2_END .
+1920 Member-Collection(e2,e1) Blade is accepted into the inner E1_START circle E1_END of hardened E2_START criminals E2_END who run things inside the prison and is offered a job on his release .
+1926 Message-Topic(e1,e2) In the E1_START story E1_END a E2_START mob E2_END surrounds a woman to stone her for adultery , and ask Jesus what they should do .
+1928 Member-Collection(e2,e1) Like all new towns we have missed.the encouraging influence of a large E1_START body E1_END of E2_START alumni E2_END , only two of the thirty-five former graduates having entered college .
+1929 Component-Whole(e2,e1) The depression E1_START chamber E1_END contains a E2_START diaphragm E2_END under pressure from a diaphragm spring .
+1933 Component-Whole(e1,e2) Body piercing jewellery specially for E1_START lobe E1_END E2_START ear E2_END piercings .
+1945 Content-Container(e1,e2) Also missing was a 38 caliber Smith & Wesson E1_START gun E1_END that was in a E2_START suitcase E2_END in the tractor .
+1961 Component-Whole(e2,e1) He grabed one end of the E1_START broom E1_END E2_START stick E2_END as they grab the other end .
+1971 Cause-Effect(e1,e2) The E1_START tsunami E1_END resulted in significant property E2_START damage E2_END but only two fatalities in RS .
+1983 Cause-Effect(e2,e1) By the end of the work day , the E1_START anger E1_END was radiating from the E2_START city E2_END .
+1992 Message-Topic(e1,e2) This E1_START workshop E1_END analyzes credit risk E2_START factors E2_END and how these risk factors can be measured , controlled , and reduced in financial institutions .
+1999 Content-Container(e1,e2) The E1_START nitric oxide E1_END was contained in a large E2_START gold-plated cylinder E2_END in which it was ionized by krypton resonance radiation .
+2003 Component-Whole(e1,e2) Since the ultimate purpose of the company is that of sales , the sales E1_START department E1_END is rightly recognized as one of the major departments of the E2_START business E2_END .
+2012 Component-Whole(e1,e2) In other words , the E1_START bow E1_END of the E2_START vessel E2_END points at the ` windy ' extended edge of the table .
+2017 Content-Container(e2,e1) A E1_START basket E1_END such as you mention holds four E2_START ears E2_END of corn .
+2043 Member-Collection(e2,e1) And the E1_START chorus E1_END of teenage E2_START boys E2_END and girls were a pleasure to watch as they sang and danced .
+2055 Component-Whole(e1,e2) I found the secret E1_START passages E1_END inside the E2_START Monastery E2_END .
+2056 Entity-Origin(e1,e2) The drama unfolded even after some of the E1_START stars E1_END had left the E2_START course E2_END .
+2059 Entity-Destination(e1,e2) The newly inaugurated president has delivered E1_START speeches E1_END to the E2_START public E2_END .
+2068 Content-Container(e1,e2) He made his way inside , where the E1_START jewelry E1_END was locked in a E2_START safe E2_END for the night .
+2071 Cause-Effect(e2,e1) 92 % of the CO2 E1_START emissions E1_END are caused by the E2_START lorries E2_END , but this is not fair so a different distribution method is needed .
+2076 Cause-Effect(e2,e1) Widely previously interpreted as precursory activity to the 1906 earthquake , they have been found to have a strong seasonal pattern and have been postulated to be due to large seasonal sediment loads in coastal bays that overlie faults as a result of the E1_START erosion E1_END caused by E2_START hydraulic mining E2_END in the later years of the California Gold Rush .
+2102 Member-Collection(e2,e1) I have enjoyed my interaction with the 2004 E1_START cohort E1_END of Gutenberg E2_START authors E2_END , and learned much from the books that have appeared in the series as a whole .
+2123 Product-Producer(e1,e2) This panel once decorated the cover of a gospel E1_START book E1_END -LRB- now in the Hessisches Landesmuseum , Darmstadt -RRB- written and illuminated by a E2_START scribe E2_END named Liuthard .
+2153 Entity-Destination(e1,e2) After the source material and substrates were arranged , the small quartz E1_START tube E1_END was placed inside the 50-cm-long horizontal tube E2_START furnace E2_END .
+2164 Member-Collection(e1,e2) Another E1_START deputy E1_END from coalition E2_START party E2_END resigns in Turkey .
+2172 Component-Whole(e1,e2) Drawing my bow across the string sometimes results in the E1_START stick E1_END of the E2_START bow E2_END bouncing/vibrating up and down .
+2175 Component-Whole(e1,e2) Uncooked steak is placed on the top E1_START shelf E1_END of the E2_START refrigerator E2_END and uncovered roast chicken on the bottom shelf .
+2180 Entity-Destination(e1,e2) The E1_START chip E1_END was implanted into the E2_START pet E2_END .
+2225 Other The E1_START actress E1_END went into E2_START cardiac arrest E2_END .
+2232 Member-Collection(e2,e1) He had a huge E1_START zoo E1_END of E2_START animals E2_END , savage beasts from the far parts of the world , but that was n't enough for him .
+2236 Other This readable E1_START book E1_END is the product of Darwin 's amazing E2_START journey E2_END aboard the Beagle .
+2239 Component-Whole(e2,e1) The control E1_START layout E1_END in the cabin comprises E2_START computer displays E2_END , traditional control panels and two joysticks for con - trolling the crane arm .
+2244 Member-Collection(e2,e1) Just like in Oyo State , Obasanjo sired a E1_START clique E1_END of E2_START renegades E2_END , who believe that the State treasury is their birthright .
+2245 Product-Producer(e2,e1) A E1_START factory E1_END for E2_START cars E2_END and spareparts was built in Russia .
+2247 Member-Collection(e2,e1) After an hour after lunch break , Kenny and Randy spotted a E1_START herd E1_END of E2_START boars E2_END in a common feeding area .
+2261 Member-Collection(e2,e1) Another small E1_START devision E1_END of E2_START archers E2_END was sent towards Gots to inforse united army .
+2281 Other By now , my E1_START friends E1_END are familiar with my almost english E2_START obsession E2_END with toast .
+2283 Other The E1_START charges E1_END originated in an attempted E2_START blackmail E2_END against Moti , a constitutional lawyer and Australian citizen , in Vanuatu in 1997-98 .
+2300 Entity-Origin(e2,e1) Therefore , a different method is used , involving a condom , some E1_START strawberry E1_END E2_START syrup E2_END , and a piece of 1/2 '' aluminium plating -LRB- not as kinky as it sounds -RRB- .
+2309 Member-Collection(e1,e2) The E1_START chairman E1_END of the E2_START political party E2_END or the independent/primary candidate entitled to representatives , as appropriate , must provide a notice of authorization .
+2314 Message-Topic(e1,e2) His graduation E1_START thesis E1_END supplied valuable E2_START background information E2_END on the subject of the duel .
+2322 Message-Topic(e2,e1) E1_START Results E1_END from this testing were presented in a previous technical progress E2_START report E2_END for this project .
+2325 Cause-Effect(e2,e1) The E1_START compromise E1_END resolved the crisis through a series of secret E2_START negotiations E2_END involving Republican and Democratic politicians and various interest groups .
+2328 Member-Collection(e2,e1) Several merry answers were made to my question , which entertained us 'till bed time , and filled my mind with a E1_START huddle E1_END of E2_START ideas E2_END .
+2337 Product-Producer(e2,e1) Beginning in 1939 , the E1_START factory E1_END 's passenger E2_START cars E2_END were sold under the Moskvitch -LRB- `` Muscovite '' -RRB- brand .
+2341 Component-Whole(e2,e1) This absorbency is important in a E1_START candle E1_END because the E2_START wick E2_END needs to absorb liquid wax and move it upward while the candle is burning .
+2367 Entity-Destination(e1,e2) Virgin spaceship takes E1_START visitors E1_END into E2_START suborbital space E2_END .
+2372 Cause-Effect(e1,e2) E1_START Autonomic imbalance E1_END is one of the multifactorial causes of essential E2_START hypertension E2_END currently .
+2382 Cause-Effect(e2,e1) As I move closer to the kitchen , the steady E1_START hum E1_END of the E2_START refrigerator E2_END grows stronger .
+2418 Instrument-Agency(e2,e1) The E1_START military E1_END uses E2_START sandbags E2_END for field fortifications , or as a temporary measure to protect civilian structures .
+2422 Other For example , a E1_START technology E1_END E2_START manufacturer E2_END undertook a seven-year , $ 200 million human resources outsourcing effort .
+2424 Content-Container(e1,e2) An i-Button is a globally unique E1_START computer chip E1_END enclosed in a 16mm E2_START steel case E2_END .
+2426 Content-Container(e1,e2) He was shocked to find the E1_START mixes E1_END were in a E2_START box E2_END in his garage that was in mortal danger because rats had used it for nesting .
+2460 Other Walking trails , fire pit and a tree E1_START fort E1_END in the E2_START woods E2_END have encouraged him to spend time outside .
+2478 Component-Whole(e1,e2) As was standard practice at the museum on that day of the week , only maintenance workers , cleaning staff , curators , and a few other employees roamed the cavernous E1_START halls E1_END of the E2_START building E2_END that was once the home of France 's kings but for centuries had been devoted to housing the nation 's art treasures .
+2528 Member-Collection(e2,e1) In the meantime , an unlikely E1_START menage E1_END of Payaya E2_START natives E2_END , Franciscan padres , Canary Islanders and Spanish soldiers struggle to bring the city together as winter approaches .
+2544 Component-Whole(e2,e1) The E1_START machine E1_END processes the blood using a centrifugal E2_START pump E2_END , which separates the components of the blood and the plasma .
+2545 Member-Collection(e2,e1) The data provided powerful evidence that the unusual meteorite was the result of a long-lasting E1_START rain E1_END of E2_START meteorites E2_END following the destruction of an asteroid .
+2549 Member-Collection(e1,e2) Luke played the crucial role of E1_START goal-keeper E1_END in the E2_START team E2_END that defeated tournament favourites Croatia 6-4 in the final match .
+2559 Entity-Origin(e1,e2) The halogen combines with the E1_START tungsten E1_END evaporated from the hot E2_START filament E2_END to form a compound that is attracted back to the filament , thus extending the filament 's life .
+2567 Member-Collection(e2,e1) I also have a full E1_START unit E1_END of blighted E2_START swordsmen E2_END and the blessing of vengeance on my to seal shelf .
+2592 Product-Producer(e1,e2) The E1_START message E1_END was generated by the E2_START sender E2_END .
+2601 Product-Producer(e1,e2) The 575-page E1_START report E1_END by the four-person E2_START mission E2_END was released today , ahead of its presentation to the UN 's Human Rights Council in Geneva on 29 September .
+2619 Other These E1_START studies E1_END supplied exploratory E2_START details E2_END on some of the determinant attributes and provided a basis for the current research .
+2620 Cause-Effect(e2,e1) The big E1_START bang E1_END was caused by the E2_START collision E2_END of two parallel universes .
+2625 Other My E1_START credit card bill E1_END is approaching its E2_START limits E2_END .
+2635 Entity-Origin(e2,e1) It dated back to the Meiji time that ryes were the raw material of E1_START wheat E1_END E2_START liquor E2_END .
+2651 Cause-Effect(e2,e1) Celiac E1_START disease E1_END -LRB- CD -RRB- is an inflammatory disorder of the upper small intestine triggered by the E2_START ingestion E2_END of wheat , rye , barley , and possibly oat products .
+2682 Instrument-Agency(e1,e2) The report is about the regular E1_START road E1_END E2_START user E2_END and the law .
+2684 Entity-Origin(e1,e2) The E1_START flight E1_END departs from an E2_START airport E2_END on territory of a member state to which the Treaty applies .
+2689 Message-Topic(e1,e2) Teacher Man is a 2005 E1_START memoir E1_END written by Frank McCourt which describes and reflects on his E2_START teaching experiences E2_END in New York high schools and colleges .
+2692 Member-Collection(e2,e1) CCP Games is unrelenting in its quest to maintain a fresh and challenging gaming experience to its ever-expanding E1_START universe E1_END of E2_START players E2_END .
+2694 Other The E1_START shape E1_END of the vessel is seen in a E2_START ewer E2_END that has been in the Metropolitan Museum for many years .
+2697 Entity-Destination(e1,e2) This water E1_START painting E1_END has been donated to a local art E2_START gallery E2_END .
+2702 Content-Container(e1,e2) The E1_START bomb E1_END was hidden in the E2_START gas tank E2_END of a motorcycle .
+2738 Entity-Destination(e1,e2) Arginine-rich intracellular delivery peptides noncovalently transported the E1_START protein E1_END into the living E2_START cells E2_END .
+2741 Message-Topic(e1,e2) Springwatch is an annual BBC E1_START television series E1_END which charts the E2_START fortunes E2_END of wildlife during the arrival of springtime in the United Kingdom .
+2766 Instrument-Agency(e2,e1) The VAPS E1_START cleaner E1_END completely retains all ingested dust particles by using E2_START water E2_END as a filter .
+2773 Component-Whole(e2,e1) The state E1_START machine E1_END contains six E2_START states E2_END , seven inputs , and five outputs .
+2783 Entity-Origin(e1,e2) An entire E1_START panzerkompanie E1_END arrived from E2_START reserves E2_END including the attached heavy tank platoon .
+2810 Other It was a E1_START factory E1_END for destroying perfectly good E2_START pants E2_END .
+2813 Entity-Origin(e1,e2) The E1_START beverage E1_END was distilled from the E2_START root E2_END of its eponymous plant .
+2814 Entity-Destination(e1,e2) E1_START Money E1_END flows into E2_START hedge funds E2_END again .
+2816 Message-Topic(e2,e1) Another fried chicken restaurant E1_START chain E1_END also became the subject of a E2_START conspiracy theory E2_END .
+2818 Member-Collection(e2,e1) The calls of his caged decoy-birds have announced the arrival and passing over of a E1_START parcel E1_END of E2_START linnets E2_END .
+2835 Component-Whole(e2,e1) The patient was stabbed or stuck with a sharp E1_START pencil E1_END E2_START point E2_END .
+2840 Entity-Origin(e1,e2) His son once married a E1_START princess E1_END descended from the Middle Eastern kingdom 's founding E2_START family E2_END .
+2860 Component-Whole(e1,e2) We pop our heads out the capped E1_START dome E1_END of the E2_START building E2_END .
+2861 Entity-Origin(e1,e2) Grape E1_START brandy E1_END is made from fermented grape E2_START juice E2_END .
+2879 Other These two E1_START ports E1_END were specialized in the E2_START manufacture E2_END of luxury goods .
+2900 Content-Container(e1,e2) Inside the car , keys were found in the ignition and Codario-Ferrino 's E1_START license E1_END was discovered inside a E2_START purse E2_END on the passenger 's seat .
+2902 Component-Whole(e1,e2) The E1_START siphon E1_END in a E2_START cistern E2_END consisted of a pipe bent over above the water level in the cistern .
+2947 Other Here I show that Adh-psi is actually a new , functional E1_START gene E1_END recently descended from an Adh E2_START duplication E2_END .
+2948 Entity-Destination(e1,e2) The E1_START patches E1_END immediately spread into the lymphatic E2_START capillaries E2_END of the surrounding intestinal tissue .
+2950 Other The E1_START governor E1_END is assisted by a vice E2_START governor E2_END .
+2968 Entity-Origin(e2,e1) The candle E1_START wax E1_END is the main ingredient needed for making E2_START candles E2_END of all types .
+2972 Cause-Effect(e2,e1) The storm ended up causing about a fraction of the E1_START damage E1_END caused by the Chesapeake Bay E2_START storm E2_END .
+2994 Cause-Effect(e2,e1) E1_START Acne E1_END or pimples are caused by E2_START hormonal changes E2_END , wrong food habits and improper skin care .
+2998 Cause-Effect(e2,e1) In July he was sent north to quell a E1_START rebellion E1_END instigated by the discontented E2_START people E2_END of Warwick .
+2999 Other These trends have thrown E1_START women E1_END into totally inhibiting E2_START situations E2_END .
+3012 Product-Producer(e1,e2) It is just another asset bubble , where the grotesque E1_START bonuses E1_END made by the E2_START speculators E2_END who have brought the world economy to its knees .
+3013 Message-Topic(e2,e1) First , a comprehensive literature review was conducted and E1_START results E1_END were presented in the previous E2_START chapter E2_END .
+3021 Cause-Effect(e1,e2) 13 , students were evacuated from Conrad Residence for approximately 15 minutes after E1_START burnt food E1_END in one of the kitchens set off the fire E2_START alarm E2_END .
+3039 Entity-Destination(e1,e2) The corpses were then placed in cotton cloth wrappings and put inside of a wooden E1_START case E1_END that was then put inside of another E2_START case E2_END that was decorated with details of their life and a mask of their face .
+3046 Product-Producer(e2,e1) In addition to the landscape display , the E1_START students E1_END have assembled a window E2_START display E2_END with the assistance of Fortuna Energy Inc. .
+3057 Cause-Effect(e2,e1) There was a serious E1_START increase E1_END in the acidity of the seas caused by the acid E2_START rains E2_END .
+3060 Entity-Destination(e1,e2) E1_START Talks E1_END have moved into a new E2_START topic E2_END .
+3063 Entity-Origin(e2,e1) This frosted E1_START lemon E1_END E2_START cake E2_END is sweet and buttery with a wonderful citrus flavor that comes from adding both lemon zest and juice to the batter .
+3066 Component-Whole(e2,e1) Lollapalooza is an annual music E1_START festival E1_END featuring E2_START alternative rock E2_END , hip hop , and punk rock bands , dance and comedy performances , and craft booths .
+3084 Instrument-Agency(e2,e1) For example , a television E1_START anchor E1_END uses a E2_START microphone E2_END on their lapel .
+3100 Other These E1_START loans E1_END are travelling into E2_START foreclosure E2_END significantly slower than conventional loans .
+3122 Entity-Origin(e1,e2) The sprinkler spins because of the recoil as the E1_START water E1_END leaves the E2_START nozzle E2_END .
+3125 Other In the spring of 1950 , the FCC issued a warning to the Hollywood motion picture studios against withholding product and E1_START talent E1_END from broadcast E2_START television E2_END , in what motion picture exhibitors denounced as `` a bullying statement '' .
+3136 Other This government views E1_START science E1_END simply as a tool for profit E2_START generation E2_END .
+3148 Component-Whole(e1,e2) The current was quite strong and I was having difficulty swimming over to the E1_START daggerboard E1_END of the E2_START boat E2_END which was now sticking out of the water .
+3152 Entity-Destination(e1,e2) The commercial bees are spreading E1_START parasites E1_END to their wild E2_START cousins E2_END .
+3153 Member-Collection(e2,e1) These aliens were the Covenant , a E1_START confederacy E1_END of various E2_START races E2_END brought together by their fanatical religious devotion .
+3156 Member-Collection(e2,e1) In September 2001 , IDRC created a E1_START council E1_END of regional E2_START advisors E2_END for West and Central Africa .
+3157 Member-Collection(e2,e1) Part of New York City became an `` urban jungle '' -- as a E1_START swarm E1_END of E2_START bees E2_END descended on the busy Union Square Park area .
+3166 Product-Producer(e2,e1) Many E1_START directors E1_END adapt a story from another medium such as a book , play , or game into a E2_START film E2_END , with varying results .
+3186 Message-Topic(e1,e2) I have read the E1_START comments E1_END made by Micheal Hortin with regard to this E2_START decision E2_END and would like to make the following observations .
+3187 Message-Topic(e1,e2) While the slide was presented , an audio-recorded biographical E1_START script E1_END was played describing the E2_START person E2_END .
+3220 Content-Container(e1,e2) The E1_START key E1_END was inside a E2_START planter thing E2_END we had hanging near the door .
+3226 Other Capacity is the E1_START combination E1_END of human E2_START resources E2_END and institutions that permits countries to achieve their development goals .
+3231 Other It became an obsession but , frustrated at every turn , he eventually made do with a E1_START copy E1_END made by a family E2_START firm E2_END in Nottingham .
+3244 Other These E1_START city dwellers E1_END have sunk into E2_START abominations E2_END .
+3267 Other The female constructs a E1_START nest E1_END of E2_START grass E2_END in a hollow on the ground .
+3288 Member-Collection(e2,e1) By the end of 1559 the whole E1_START bench E1_END of catholic E2_START bishops E2_END had been replaced .
+3292 Cause-Effect(e1,e2) Cobalt metal E1_START fume E1_END and dust cause upper respiratory tract irritation , chronic interstitial pneumonitis , and skin E2_START sensitization E2_END .
+3296 Content-Container(e2,e1) Accompained by two Seneca Indians , he set out on snow shoes with a forty pound E1_START pack E1_END of E2_START clothing E2_END and books to traverse that long and perilous trail .
+3297 Entity-Destination(e1,e2) We inserted some E1_START sound E1_END into the blackboard E2_START announcements E2_END .
+3298 Member-Collection(e2,e1) Only then did I notice an E1_START ambush E1_END of E2_START tigers E2_END pacing us on the far shore .
+3301 Entity-Origin(e1,e2) The E1_START photos E1_END from past E2_START events E2_END were printed and on display in the fellowship hall for several weeks during the 60th anniversary celebration in Sept 2006 .
+3306 Other Some time in 2002 , the E1_START chief executive E1_END of this E2_START corporation E2_END sought and received board approval to construct a modern training school for its staff .
+3322 Cause-Effect(e2,e1) With the E1_START pollution E1_END caused by the E2_START buring E2_END of coal , the light-colored tree trunks became darker due to soot .
+3323 Other He stirred the oil , garlic and cumin seeds together in a E1_START dish E1_END large enough to hold the E2_START sardines E2_END in a single layer .
+3337 Other The E1_START arrest E1_END completes a dismal past five E2_START weeks E2_END for the 25-year-old .
+3345 Product-Producer(e2,e1) The E1_START country E1_END has constructed a thermal E2_START plant E2_END in Takoradi to supplement its power supply needs .
+3355 Content-Container(e2,e1) The brochure shows , in one embodiment , a E1_START vase E1_END with E2_START flowers E2_END inside a `` cut flower '' sleeve with the sleeve tied with a ribbon about the neck of the vase .
+3357 Content-Container(e1,e2) Each person 's E1_START name E1_END was in a E2_START box E2_END .
+3361 Cause-Effect(e1,e2) And these E1_START gases E1_END cause E2_START evaporation E2_END of water from sea and soil .
+3369 Entity-Destination(e1,e2) E1_START Investment E1_END flows into emerging E2_START markets E2_END .
+3374 Instrument-Agency(e2,e1) To use it , a E1_START person E1_END applies the E2_START vinegar E2_END to a cotton ball and then swabs the vinegar on the affected area .
+3378 Cause-Effect(e2,e1) Dalindyebo R900-million and the tribe a further R80-billion in compensation for the E1_START humiliation E1_END caused by the monarch 's criminal E2_START trial E2_END .
+3380 Entity-Origin(e1,e2) The duration of the visa is estimated from the first exit of the E1_START applicant E1_END from the E2_START country E2_END after issuance of the visa .
+3381 Member-Collection(e2,e1) A few crappie on Tuesday -LRB- June 24 -RRB- were found among flooded willow trees , presumably feeding on the recent E1_START hatch E1_END of E2_START mayflies E2_END -LRB- willow flies -RRB- that occurred on Sunday and Monday .
+3383 Member-Collection(e2,e1) By tacit approval , an order of preaching heretics who deny the infallibility of the Bible , an E1_START order E1_END of drunken and adulterous E2_START clergy E2_END , are permitted , and are at this moment holding benefices and preaching in the Church of England .
+3416 Product-Producer(e2,e1) These E1_START brothers E1_END were the first to invent a working E2_START airplane E2_END .
+3418 Cause-Effect(e2,e1) The second E1_START injury E1_END also started from the aforementioned E2_START collision E2_END , but has only recently re-surfaced .
+3423 Component-Whole(e1,e2) They looked very closely at the E1_START white E1_END of the E2_START eye E2_END , and saw lines that look like tiny pink threads .
+3439 Content-Container(e1,e2) A full quarter of the E1_START products E1_END in the E2_START supermarket E2_END have some form of corn in them .
+3441 Other One of the best vantage E1_START points E1_END of the Boston skyline is from the E2_START water E2_END , in a boat heading toward the Boston Harbor Islands .
+3508 Component-Whole(e2,e1) I remembered about a E1_START string E1_END of rosary E2_START beads E2_END my mother purchase for me from a young priest and I pulled them out of the nightstand , -LRB- where they had been for about 15 years -RRB- .
+3528 Member-Collection(e2,e1) Our E1_START club E1_END consists of fun-loving E2_START residents E2_END , both retired and working from a wide range of businesses .
+3540 Entity-Origin(e1,e2) But I am more or less set on 2 continued E1_START courses E1_END from last E2_START term E2_END and Financial Derivatives for this term .
+3545 Content-Container(e2,e1) To the right of that is a E1_START cup E1_END with E2_START soil E2_END inside .
+3552 Message-Topic(e1,e2) This E1_START website E1_END sets out both E2_START sides E2_END of the argument .
+3559 Other The E1_START kids E1_END liberate the ponies with the E2_START help E2_END of a sympathetic groom .
+3571 Message-Topic(e1,e2) It is a satirical E1_START show E1_END on Quebec television that comments on E2_START current events E2_END by the favour of the show 's main character .
+3573 Cause-Effect(e2,e1) Some comments from readers highlight the E1_START frustration E1_END and inconvenience caused by the 3-pin E2_START system E2_END .
+3592 Product-Producer(e2,e1) Sorcha , the seventh daughter of a seventh son , had to save her brothers from their E1_START stepmother E1_END , who turned them into E2_START swans E2_END for many years .
+3599 Cause-Effect(e2,e1) The E1_START blockages E1_END are caused by a build-up of E2_START fatty plaque E2_END along the artery walls .
+3605 Cause-Effect(e2,e1) The E1_START demise E1_END of the bees has been caused by the globalization of E2_START commerce E2_END .
+3614 Other British , were engaged , at great odds , with the swarming E1_START rabble E1_END of the E2_START alleys E2_END .
+3627 Entity-Origin(e1,e2) The E1_START ministers E1_END went away from the December E2_START conference E2_END .
+3633 Cause-Effect(e2,e1) Solar disturbances such as flares , prominences , and sunspots increase the amount of E1_START radiation E1_END from the E2_START sun E2_END .
+3657 Instrument-Agency(e2,e1) The E1_START team E1_END stapled the plastic along the joists with heavy duty staple E2_START guns E2_END to hold it in place .
+3670 Product-Producer(e2,e1) E1_START Astrophysicists E1_END have discovered a new E2_START explanation E2_END for the early composition of our solar system .
+3675 Entity-Origin(e1,e2) The current E1_START band E1_END arrived from the Lafayette E2_START competition E2_END .
+3699 Entity-Origin(e1,e2) Hand-stitched with fabric and E1_START clothing E1_END from different E2_START eras E2_END of her life , this quilt is imbued with meaning and memory .
+3710 Component-Whole(e2,e1) The teacher set up an activity where each time the E1_START dancer E1_END performed a tendu with a fully stretched E2_START foot E2_END she received a tag .
+3714 Entity-Origin(e1,e2) The E1_START alizarin E1_END was extracted from the E2_START roots E2_END of Rubia tinctorium and Rubia peregrina which grew wild in the Mediterranean region .
+3733 Product-Producer(e2,e1) A local E1_START man E1_END put up a E2_START monument E2_END at the site , and in 1997 a community group put up a welcoming sign for visitors .
+3747 Component-Whole(e2,e1) With a concert coming up in only 4 hours , you are working feverishly to perfect the tune of the E1_START piano E1_END 's E2_START strings E2_END .
+3765 Component-Whole(e2,e1) The E1_START package E1_END includes the BBC `` Fight for Life '' E2_START series E2_END of videos , which chronicles the difficulties experienced in the lives of women giving birth in developing countries .
+3771 Entity-Origin(e1,e2) Another E1_START celebrity E1_END has bailed out of the Costa Rican jungle E2_START set E2_END of `` I 'm a Celebrity ... Get Me Out of Here !
+3779 Component-Whole(e1,e2) The E1_START sink E1_END was in the E2_START desk E2_END and I had to wedge myself into the bathroom .
+3786 Message-Topic(e1,e2) Some E1_START charts E1_END are specific to a particular E2_START musical genre E2_END and most to a particular geographical location .
+3792 Entity-Destination(e1,e2) The young man 's E1_START cocktail E1_END flew into the running ceiling E2_START fan E2_END .
+3798 Cause-Effect(e2,e1) This paper presents the results of a survey of the building E1_START damage E1_END caused by the ash fall from the cataclysmic E2_START eruption E2_END of Mount Pinatubo .
+3800 Member-Collection(e2,e1) The major E1_START population E1_END constitutes of E2_START farmers E2_END and agriculture related business men and merchants .
+3812 Product-Producer(e1,e2) These are vampire E1_START novels E1_END with little blood shed and a strong moral message , written by a E2_START woman E2_END with a robust Mormon faith who does not like horror books .
+3816 Entity-Destination(e1,e2) The E1_START humanity E1_END has migrated into E2_START space E2_END to settle in an outer solar system .
+3819 Component-Whole(e1,e2) In a moment more the crowd began to gush forth from the E1_START doors E1_END of the E2_START church E2_END .
+3828 Instrument-Agency(e2,e1) The E1_START perpetrators E1_END carried out the Karachi blast through a planted E2_START bomb E2_END .
+3829 Other Other E1_START stations E1_END -LRB- and cable channels -RRB- have spawned imitation E2_START shows E2_END .
+3845 Cause-Effect(e2,e1) This year 's Nobel Laureates in Physiology or Medicine made the remarkable and unexpected discovery that inflammation in the stomach -LRB- gastritis -RRB- as well as ulceration of the stomach or duodenum -LRB- peptic ulcer disease -RRB- is the result of an E1_START infection E1_END of the stomach caused by the E2_START bacterium E2_END Helicobacter pylori .
+3871 Product-Producer(e2,e1) One of the most memorable E1_START pinots E1_END came from a tiny boutique Swiss E2_START producer E2_END .
+3887 Other Specially designed lampposts are spaced along the E1_START curbs E1_END of the E2_START roadway E2_END .
+3893 Other Becker & Castillo -LRB- 1990 -RRB- compared the root systems of three species of shrub or treelet with saplings of three tree E1_START species E1_END in the E2_START forest E2_END on Barro Colorado .
+3898 Entity-Destination(e1,e2) The E1_START coils E1_END were inserted radially into the stator 's open E2_START slots E2_END .
+3914 Other The E1_START curvature E1_END of the piece was originally from a small E2_START bowl E2_END or cup .
+3915 Message-Topic(e1,e2) At first instance , this E1_START convention E1_END was concerned with E2_START prevention E2_END , reduction and control of pollution .
+3918 Other E1_START Solutions E1_END involving E2_START legislation E2_END , technical innovation and international cooperation have been examined .
+3920 Entity-Destination(e1,e2) The scientist enclosed a liquid E1_START material E1_END in a E2_START vial E2_END in three steps .
+3921 Member-Collection(e2,e1) Previous to and after the first Dragon encounter , I had recall of several conversations with a E1_START fraternity E1_END of different E2_START presences E2_END .
+3933 Other There are several scripts to shut down Windows , hibernate or put the E1_START computer E1_END to E2_START sleep E2_END .
+3953 Member-Collection(e2,e1) My vegetable garden was destroyed by a E1_START labor E1_END of E2_START moles E2_END .
+3959 Content-Container(e1,e2) The E1_START computer E1_END was inside a water-proof E2_START box E2_END .
+4005 Component-Whole(e1,e2) He use the E1_START thumb E1_END of the E2_START hand E2_END holding the head to pull down the lower eye lid to create a pouch .
+4007 Cause-Effect(e2,e1) The E1_START inspiration E1_END for the multi-touch technology came from a decidedly non-digital E2_START event E2_END .
+4009 Component-Whole(e1,e2) Scratch the E1_START stem E1_END of this E2_START tree E2_END and a spicy-sweet aroma is revealed .
+4019 Product-Producer(e1,e2) Insulin is a simple E1_START protein E1_END normally produced by the E2_START pancreas E2_END .
+4020 Other Now that recovery and E1_START reconstruction E1_END after the E2_START tsunami E2_END are getting under way , we want to see people move into their new homes , communities resume their livelihoods and children back into their rebuilt schools .
+4023 Entity-Origin(e2,e1) The French Toast was very tasty and the mango E1_START cranberry E1_END E2_START syrup E2_END was a nice touch .
+4027 Component-Whole(e2,e1) The E1_START method E1_END includes the E2_START formation E2_END of a two-layer semifmished product with a low-melting surface layer and simering combined with impregnation .
+4045 Entity-Destination(e1,e2) An E1_START object E1_END has been placed into E2_START orbit E2_END .
+4047 Other The E1_START book E1_END , compiled by the E2_START poet E2_END 's daughter , includes memoirs by writers , poets , translators , critics , actors , and theater directors .
+4050 Instrument-Agency(e1,e2) This is the best E1_START armor E1_END for E2_START knights E2_END .
+4053 Other A series of steps takes you to the top of the falls where you get a wide and spectacular view of the stone bowl that the E1_START creek E1_END has carved over the E2_START ages E2_END .
+4077 Member-Collection(e2,e1) The first civilization to have a dedicated force of military engineering specialists were the Romans , whose army contained a dedicated E1_START corps E1_END of military E2_START engineers E2_END known as architecti .
+4096 Product-Producer(e1,e2) E1_START Mounds E1_END in the lawn are caused by E2_START earthworms E2_END working in the top few inches of turf .
+4099 Member-Collection(e2,e1) The E1_START knot E1_END of struggling E2_START frogs E2_END stays flopping in the same spot on the pond surface .
+4106 Other We have three of the finest Hanoverian E1_START stallions E1_END in England standing at E2_START stud E2_END .
+4108 Component-Whole(e2,e1) This E1_START website E1_END gives you detailed E2_START maps E2_END and trails that are specifically in Kent .
+4111 Instrument-Agency(e2,e1) The E1_START painter E1_END uses a E2_START perch E2_END and a roller to apply the painting to the roof of a building .
+4118 Instrument-Agency(e2,e1) Most E1_START women E1_END use a portable E2_START pump E2_END for this purpose .
+4119 Product-Producer(e2,e1) Direct-formic acid fuel E1_START cells E1_END convert formic acid and oxygen into E2_START carbon dioxide E2_END and water to produce energy .
+4122 Product-Producer(e2,e1) In 1890 , the E1_START nobleman E1_END organized and founded a sports E2_START organization E2_END , Union des Societes Francaises de Sports Athletiques -LRB- USFSA -RRB- .
+4133 Other As you age , the bones and E1_START cartilage E1_END that make up your E2_START backbone E2_END and neck gradually deteriorate , sometimes forming irregular bony outgrowths called bone spurs .
+4155 Member-Collection(e2,e1) You needed a glamour cat to purr in this E1_START kennel E1_END of hungry E2_START hounds E2_END .
+4159 Other A British prison E1_START escapee E1_END who taunted police over the internet has established a E2_START following E2_END of more than 32000 fans on Facebook .
+4170 Entity-Destination(e1,e2) The juvenile tawny E1_START owls E1_END were released into four woodland E2_START locations E2_END .
+4173 Product-Producer(e2,e1) With medical ghostwriting , pharmaceutical companies pay both professional E1_START writers E1_END to produce E2_START papers E2_END and then pay other scientists or physicans to attach their names to these papers before they are published in a medical or scientific journals .
+4179 Content-Container(e1,e2) Making a slow cook E1_START turkey E1_END in the E2_START crock pot E2_END is pretty similar to making one in the oven .
+4207 Entity-Destination(e1,e2) The USA government handed over these detained foreign E1_START citizens E1_END to Russian E2_START boarder guards E2_END .
+4223 Component-Whole(e2,e1) The mouse is a traditional ball E1_START mouse E1_END with 3 buttons and a E2_START scroll wheel E2_END .
+4230 Product-Producer(e2,e1) Another product from the E1_START factory E1_END was the Scandinavian E2_START padlock E2_END -LRB- `` Polhem locks '' , Swedish : Polhemslas -RRB- .
+4237 Product-Producer(e2,e1) During his early period , the E1_START director E1_END produced numerous documentaries , including an interview with Aleksandr Solzhenitsyn and a E2_START reportage E2_END about Grigori Kozintsev 's flat in St Petersburg .
+4249 Content-Container(e2,e1) The desert temperature at the time of her death was 110 degrees , but a E1_START bottle E1_END with E2_START water E2_END in it was found with her body , raising doubts on dehydration as a cause of death .
+4268 Other In the end what was left of the city was E1_START miles E1_END from the E2_START sea E2_END , and many of the inhabitants left swampy lowland to live in the surrounding hills .
+4283 Product-Producer(e1,e2) This week , for example , brought a public E1_START statement E1_END by the E2_START head E2_END of NOW acknowledging that the fight to have women valued for their inner beauty is essentially a wash .
+4293 Cause-Effect(e1,e2) E1_START Constipation E1_END is the most common cause of E2_START abdominal pain E2_END in the pediatric population .
+4311 Content-Container(e1,e2) Along with lots of padding , a E1_START treat E1_END wrapped inside a E2_START towel E2_END was put inside the seat of the stuntman 's pants to entice the dog to bite the padded part .
+4320 Cause-Effect(e2,e1) The fresh Muslim E1_START anger E1_END has been caused by the opening E2_START speech E2_END delivered by Pope Benedict XVI on September 12 , 2006 .
+4329 Product-Producer(e2,e1) The Canadian E1_START author E1_END 's sixth E2_START book E2_END is a domestic tragicomedy about love , alcoholism and failed families .
+4348 Product-Producer(e2,e1) So when the E1_START plants E1_END came up and bore E2_START grain E2_END , then the weeds appeared also .
+4349 Message-Topic(e1,e2) Overall , the E1_START findings E1_END on class work discourse point out invariant teacher-student E2_START interactions E2_END .
+4354 Product-Producer(e1,e2) And those are guys running on the exact same E1_START legs E1_END made by the same E2_START company E2_END .
+4366 Entity-Origin(e2,e1) The jar on the left has E1_START blackberry E1_END E2_START jelly E2_END , the middle jar is relish , and the jar on the right is blueberry jam .
+4376 Component-Whole(e1,e2) The E1_START crust E1_END of the E2_START planet E2_END was flooded with melt and the crater tended to erase itself .
+4383 Component-Whole(e2,e1) Nearly two-thirds of all burglaries involve forced entry , and they succeed partly because of flimsy E1_START door E1_END E2_START locks E2_END and mounting hardware .
+4385 Instrument-Agency(e2,e1) A E1_START couple E1_END relaxes with a cup of E2_START coffee E2_END at one of Alaska 's fabulous bed and breakfasts .
+4386 Member-Collection(e2,e1) We gathered kindling in a E1_START grove E1_END of tall E2_START pines E2_END near the cabin .
+4430 Member-Collection(e1,e2) The E1_START essays E1_END collected in this E2_START book E2_END -- written by some of the leading experts in the field -- challenge this popular image right at its heart , taking as their starting point that science trades not only in truth , but in fiction , too .
+4452 Component-Whole(e2,e1) The stereo cutter E1_START head E1_END has two E2_START coils E2_END which move in a magnetic field .
+4456 Entity-Destination(e1,e2) E1_START Violation E1_END in the text associated concepts was brought into the working E2_START memory E2_END in an attempt to resolve the violation .
+4468 Component-Whole(e1,e2) Formerly it was usual to insulate the E1_START rod E1_END of the E2_START electroscope E2_END by passing it through a hole in a cork or mass of sulphur fixed in the top of the glass vessel within which the gold leaves were suspended .
+4487 Entity-Destination(e1,e2) The E1_START particles E1_END were released into the E2_START air E2_END .
+4505 Component-Whole(e1,e2) We report a rather unusual case of severe ocular injury caused by the E1_START shank E1_END of a triplet E2_START fish hook E2_END .
+4513 Component-Whole(e1,e2) She leant for a moment against the E1_START wheel E1_END of the E2_START truck E2_END and glanced about .
+4528 Entity-Destination(e1,e2) The E1_START bomb E1_END was delivered to the unsuspected E2_START victims E2_END .
+4539 Entity-Destination(e1,e2) My manager 's E1_START desk E1_END has been moved up to the top E2_START floor E2_END .
+4545 Product-Producer(e1,e2) I work in a E1_START design E1_END E2_START studio E2_END and by chance it 's a really good profession for me .
+4548 Content-Container(e2,e1) As with most American families I started bad eating habits at an early age , I still remember the times I was given a E1_START bottle E1_END with E2_START soda E2_END in it .
+4551 Instrument-Agency(e2,e1) The E1_START doctor E1_END injects the solution after disinfection with E2_START alcohol E2_END .
+4586 Component-Whole(e2,e1) Tree roots are attracted to the water vapor leaving the pipe and they follow the vapor trail to the source of the moisture , which are usually cracks or loose joints in the E1_START sewer E1_END E2_START pipe E2_END .
+4592 Message-Topic(e1,e2) The E1_START novel E1_END examined the E2_START life E2_END of Larry Weller , an `` ordinary man made extraordinary '' by his unique talent for creating labyrinths .
+4603 Other The chief safety E1_START officer E1_END announced the Gwinnett-Barrow-Jackson enforcement wave with the E2_START unveiling E2_END of a replica of new traffic warning signs that have been posted along I-85 .
+4622 Member-Collection(e2,e1) Just as Jack says , `` On deck , you scabrous dogs , '' to the very left edge of the screen over Jack 's shoulder is a grip E1_START crew E1_END E2_START member E2_END with a tan cowboy hat , white short sleeve tee shirt and sunglasses , just standing there looking out to sea .
+4627 Entity-Destination(e1,e2) I pulled the breather hose off of the airbox and placed the E1_START end E1_END in a nalgene E2_START bottle E2_END .
+4636 Instrument-Agency(e2,e1) Some E1_START researchers E1_END watered the plant with E2_START luciferin E2_END .
+4639 Message-Topic(e1,e2) The first E1_START workshop E1_END was convened on the topic of E2_START derivatives E2_END .
+4641 Other That song immediately segues into the maniacal `` Red & Purple '' , a bewilderingly worded love E1_START song E1_END accompanied by a toy E2_START piano E2_END and fuzzy bass .
+4653 Content-Container(e1,e2) The E1_START cup E1_END was inside a 9ft E2_START oak coffin E2_END , carved from a single tree trunk .
+4656 Other The E1_START prisoner E1_END was taken into preventive E2_START custody E2_END this morning .
+4669 Content-Container(e1,e2) The E1_START ring E1_END was in a E2_START glass E2_END of champagne , and all of hubby 's family was present .
+4681 Entity-Destination(e1,e2) E1_START Jars E1_END were then placed into three separate E2_START cages E2_END .
+4704 Other The E1_START researcher E1_END approached the subjects and their experiences with an open E2_START mind E2_END .
+4707 Instrument-Agency(e1,e2) The second stage , referred to as the optimizer , optimizes the code according to the various switches on the E1_START compiler E1_END set by the E2_START programmer E2_END .
+4708 Cause-Effect(e1,e2) Both E1_START bacteria E1_END cause E2_START mortality E2_END in target species via a lethal septicaemia as a result of spore germination .
+4715 Cause-Effect(e2,e1) The direct E1_START catastrophe E1_END caused by the E2_START earthquake E2_END was estimated at 10.2 billion euro , clearly justifying European intervention .
+4717 Component-Whole(e2,e1) E1_START Fish E1_END use their E2_START muscles E2_END to move their bodies and fins .
+4722 Entity-Destination(e1,e2) The new CEO has invested 10 % of the E1_START profit E1_END from last year into a new E2_START project E2_END .
+4741 Message-Topic(e1,e2) An E1_START invoice E1_END is a commercial document indicating the E2_START products E2_END , quantities , and agreed prices for products or services the seller has provided the buyer .
+4751 Cause-Effect(e1,e2) Chronic daily headaches are E1_START tension E1_END E2_START headaches E2_END or headaches which are caused by taking too many pain killers .
+4763 Other For some reason , the E1_START star E1_END was blinded from his own E2_START insight E2_END about the incommensurability of time .
+4769 Entity-Origin(e1,e2) Reagent-grade E1_START acetonitrile E1_END is distilled from E2_START phosphorus pentoxide E2_END immediately before use .
+4777 Entity-Destination(e1,e2) A kid took a baby E1_START koala E1_END to E2_START church E2_END on Sunday .
+4778 Entity-Destination(e1,e2) Acid precipitation was caused when E1_START sulphur dioxides E1_END and oxides of nitrogen were released into the E2_START atmosphere E2_END .
+4780 Message-Topic(e1,e2) E1_START Allegations E1_END were made about Galloway 's personal and financial E2_START behaviour E2_END .
+4807 Content-Container(e1,e2) While it is very easy to tuck the E1_START cash E1_END in a E2_START desk drawer E2_END or a closet shelf , it is not secure .
+4811 Content-Container(e1,e2) When E1_START water E1_END in a E2_START kettle E2_END becomes acidic due to decomposing organic plant matter , it becomes a kettle bog or kettle peatland .
+4817 Component-Whole(e1,e2) They were allowed to use the top two E1_START steps E1_END of the E2_START ladder E2_END .
+4820 Component-Whole(e2,e1) This paper discusses an on-line signature verification method based on angular direction of E1_START pen E1_END E2_START point E2_END movement -LRB- ADPM -RRB- .
+4846 Cause-Effect(e2,e1) E1_START Dacryoadenitis E1_END is caused by local E2_START infection E2_END of the lacrimal gland by bacteria or viruses .
+4850 Cause-Effect(e2,e1) After the war , as the Midway was preparing for retirement , she was called upon one last time to the Philippines to help with an E1_START evacuation E1_END after the E2_START eruption E2_END of Mt. Pinatubo .
+4851 Other The E1_START palace E1_END was built by the E2_START lake E2_END during the reign of the Umayyad caliph al-Walid I -LRB- 705-715 CE -RRB- .
+4901 Component-Whole(e2,e1) This E1_START volume E1_END contains a E2_START selection E2_END of Japanese prose literature dating from the classical age .
+4903 Entity-Destination(e1,e2) The E1_START casket E1_END has been moved into the E2_START mausoleum E2_END .
+4915 Entity-Destination(e1,e2) The E1_START items E1_END are handed over into our E2_START trust E2_END .
+4919 Entity-Destination(e1,e2) The E1_START seeds E1_END have been blown into their E2_START fields E2_END by wind or deposited by birds .
+4936 Other In Australia , fifty cent E1_START coins E1_END have been put into E2_START circulation E2_END .
+4940 Entity-Destination(e1,e2) Finally , the E1_START solute E1_END was placed inside a E2_START beaker E2_END and 5 mL of the solvent was pipetted into a 25 mL glass flask for each trial .
+4941 Content-Container(e1,e2) A sluggish E1_START cat E1_END named Minnie sleeps in a E2_START scuttle E2_END beside the stove .
+4946 Content-Container(e1,e2) A chicken E1_START skin E1_END is cooked inside a E2_START carafe E2_END after having been stuffed with its own meat .
+4970 Content-Container(e2,e1) Because we made observations , we know the fate of the E1_START cat E1_END in the E2_START box E2_END .
+4979 Entity-Origin(e1,e2) Some cycles depend on the E1_START results E1_END from previous E2_START cycles E2_END .
+4983 Message-Topic(e1,e2) Three large-scale controlled observational E1_START studies E1_END have been reported on this E2_START issue E2_END .
+4994 Entity-Origin(e1,e2) `` V '' starts with the arrival of a couple of dozen E1_START ships E1_END from outer E2_START space E2_END , piloted by creatures who look like humans except a lot prettier .
+5004 Instrument-Agency(e2,e1) Beaulieu 's predilection for the work of Hugo was evident in the recurrent use of grotesque or architecturally fantastic pictorial material from the E1_START poet E1_END 's E2_START pen E2_END and ink sketches , with the whale a recurrent figure .
+5052 Other But the E1_START role E1_END is also under E2_START scrutiny E2_END in this affair .
+5058 Other At the end of a long day , the E1_START teacher E1_END relaxed with a short E2_START nap E2_END on her sofa .
+5067 Other The E1_START organisation E1_END campaigns against such things as E2_START child labour E2_END .
+5070 Entity-Destination(e1,e2) The E1_START filters E1_END are going into people 's blood E2_START streams E2_END .
+5073 Other But in 2004 the E1_START rupture E1_END started at the E2_START southeast end E2_END of the segment and ran northwestward , the opposite direction from those that struck in '34 and ' 66 .
+5087 Other The E1_START granules E1_END and the pebbles are caused by a E2_START magnetic force E2_END to collide with one another , thereby resulting in liberation of the oxygen molecules contained in the granules and the pebbles .
+5139 Product-Producer(e2,e1) The second E1_START author E1_END constructed the web E2_START site E2_END using a new open-source toolkit .
+5148 Product-Producer(e1,e2) It is currently a E1_START cabinet E1_END E2_START maker E2_END 's workshop .
+5149 Entity-Origin(e1,e2) In an E1_START excerpt E1_END from upcoming E2_START books E2_END , Andre Agassi says he took what he believes to be speed .
+5164 Message-Topic(e1,e2) A second element of E1_START debate E1_END had to do with E2_START transparency E2_END .
+5165 Component-Whole(e1,e2) This E1_START module E1_END is part of the Virtual Geography department E2_START project E2_END and has been prepared for the Physical Geography Working Group of the Project .
+5174 Content-Container(e1,e2) The E1_START box E1_END was inside a plain brown E2_START paper bag E2_END with a heart drawn on the side .
+5185 Cause-Effect(e1,e2) His E1_START death E1_END during one of the Portuguese raids caused the E2_START abandonment E2_END of the settlement .
+5188 Other By choosing to hold the E1_START ceremony E1_END in a public E2_START building E2_END and inviting guests you are recognizing both that your new life affects the lives of many other people .
+5192 Entity-Origin(e1,e2) These are archived boat E1_START logs E1_END from previous E2_START months E2_END sampling beginning in February 2002 .
+5201 Other The E1_START eight-year-old boy E1_END was locked in a E2_START safe E2_END for a prank but had to be rescued when his air ran short .
+5203 Message-Topic(e1,e2) The E1_START paper E1_END inquires into energy E2_START storage E2_END examining electrical energy storage devices , especially supercapacitors .
+5204 Entity-Destination(e1,e2) A 60-year-old US grandmother , blind for nearly a decade , has recovered her sight after surgeons implanted a E1_START tooth E1_END in her E2_START eye E2_END as a base to hold a tiny plastic lens .
+5205 Entity-Origin(e1,e2) You catched the E1_START train E1_END from the E2_START terminal E2_END , direct non-stop to Rome Termini Station .
+5206 Member-Collection(e2,e1) Forests are benefited by harboring a E1_START cete E1_END of E2_START badgers E2_END , who burrow in the soil , thereby aerating it , which helps root systems to grow through the soil .
+5218 Other E1_START Democrats E1_END are running into one E2_START problem E2_END after another trying to pass the health care bill in the Senate .
+5221 Entity-Destination(e1,e2) It only spreads E1_START tick E1_END to other E2_START cats E2_END .
+5224 Entity-Destination(e1,e2) He took the E1_START cameras E1_END to the E2_START concert E2_END .
+5249 Message-Topic(e1,e2) The E1_START debate E1_END considers cultural E2_START value E2_END , social relevance , sustainability and other abstract topics as possible measures to drive a decision .
+5251 Entity-Origin(e1,e2) Eight to 10 E1_START protesters E1_END broke away from a larger E2_START group E2_END of demonstrators and darted into the street in front of Palin 's car just after the first police motorcycles in her motorcade had passed .
+5287 Product-Producer(e2,e1) The wrathful E1_START goddess E1_END turned her into a E2_START crane E2_END and proclaimed that her bird descendants should wage eternal war on the Pygmy folk .
+5297 Other The author examines some E1_START issues E1_END connected to religious E2_START freedom E2_END .
+5325 Other The first is that the E1_START ossicles E1_END are caused by an avulsion E2_START fracture E2_END 1,5 and the second is that the ossicles occur as a result of accessory ossification .
+5332 Cause-Effect(e2,e1) A febrile seizure is a E1_START convulsion E1_END in a child triggered by a E2_START fever E2_END .
+5335 Entity-Destination(e1,e2) In recent years much E1_START work E1_END has been invested into a new E2_START model E2_END of computers .
+5341 Entity-Origin(e2,e1) Bellini was not very good though , like they used E1_START peach E1_END E2_START nectar E2_END instead of fresh peaches .
+5345 Product-Producer(e1,e2) I am prepared to accept what was going on in the family from E1_START letters E1_END written by your E2_START family E2_END .
+5351 Message-Topic(e1,e2) The first E1_START point E1_END of his statement has relation to the E2_START house E2_END .
+5356 Message-Topic(e2,e1) He has released a photocopy of his original E1_START birth E1_END E2_START certificate E2_END .
+5362 Other He has been used to promote many E1_START issues E1_END to do with E2_START animal welfare E2_END and has also helped raise funds for many of the service charities .
+5393 Cause-Effect(e2,e1) Sensitive pets experience E1_START rashes E1_END and discomfort from ticks and E2_START fleas E2_END .
+5408 Cause-Effect(e1,e2) The E1_START wind E1_END caused a neat effect on the smoke clouds though , causing a E2_START corkscrew E2_END in the otherwise straight line .
+5411 Cause-Effect(e2,e1) A women E1_START fear E1_END from darkness , insects , E2_START cockroaches E2_END , mice , lizards , spiders and more and more .
+5439 Other Since the earliest period of its history , the E1_START church E1_END made use of E2_START messengers E2_END , called `` cursores , '' in order to communicate with the entire world .
+5450 Message-Topic(e1,e2) These are E1_START documents E1_END to do with E2_START finance E2_END .
+5465 Entity-Destination(e1,e2) We watched as a barman poured alcohol on to the bar , poured E1_START absinthe E1_END into a couple of shot E2_START glasses E2_END , then lit the lot .
+5476 Entity-Origin(e1,e2) Genghis Khan 's E1_START mother E1_END hailed from a E2_START tribe E2_END which later became part of the Kazakh people .
+5480 Other Many E1_START students E1_END participated in the tutoring E2_START programs E2_END funded by the legislation , but the controversial element was not the options for public schools or the tutoring program -LRB- both of which where never challenged -RRB- .
+5486 Component-Whole(e2,e1) A damper E1_START assembly E1_END is further comprising a control E2_START knob E2_END coupled to said rod , said knob extending radially about said axis .
+5495 Product-Producer(e1,e2) The E1_START charter E1_END was a joint creation by the local authorities co-ordinating E2_START body E2_END , the Trading Standards Institute , the market operators association and industry groups representing copyright and trademark owners .
+5505 Other We see that the E1_START universe E1_END starts at an initial E2_START epoch E2_END t0 .
+5508 Message-Topic(e1,e2) E1_START Crime fiction E1_END is the genre of fiction that deals with E2_START crimes E2_END , their detection , criminals and their motives .
+5524 Other Welch shows how E1_START laws E1_END composed to incorporate rural E2_START workers E2_END in a controlled way became platforms for unexpected protest and political mobilization culminating in the 1963 Rural Laborer Statute -LRB- ETR -RRB- .
+5555 Component-Whole(e2,e1) The pictorial demonstration below shows how to put your E1_START skirt E1_END E2_START waistband E2_END on after you have sewn your zipper and how to join and serge the skirt side seams .
+5574 Product-Producer(e1,e2) In fact , this is not so far removed from the famous E1_START ziggurat E1_END , the huge building erected by the E2_START emperor E2_END to communicate with the god Marduk .
+5577 Other She bought a E1_START gold E1_END E2_START bracelet E2_END for her sister .
+5585 Message-Topic(e1,e2) Students wrote E1_START scripts E1_END to narrate their E2_START story E2_END .
+5591 Other When the police raid the catacombs , Shannyn 's character hits her head while fleeing only to wake up alone in the E1_START maze E1_END of E2_START skulls E2_END and bones .
+5603 Instrument-Agency(e2,e1) Masked E1_START robber E1_END threatens worker with claw E2_START hammer E2_END .
+5606 Member-Collection(e2,e1) There is a E1_START nest E1_END of E2_START rabbits E2_END up in the loft .
+5615 Other A E1_START terrorist E1_END has planted a E2_START bomb E2_END in a city centre and it is due to go off in one or two hours ' time .
+5624 Message-Topic(e1,e2) The E1_START study report E1_END compares the E2_START genetic structure E2_END of two vastly different flowering plants to see whether differences exist in the set of circuits that create each species ' flower .
+5626 Other The heaviest E1_START rain E1_END fell from an E2_START area E2_END from Roane and Clay Counties northeastward across Braxton , Gilmer and Lewis Counties and into Southern Harrison county .
+5636 Member-Collection(e2,e1) A woman diagnosed with breast cancer today joins a huge E1_START sisterhood E1_END of cancer E2_START survivors E2_END ready to help her along the way to recovery .
+5637 Instrument-Agency(e2,e1) A qualified medical E1_START professional E1_END uses a variety of diagnostic E2_START tests E2_END .
+5650 Content-Container(e1,e2) The E1_START mah-jongg set E1_END was in a E2_START trunk E2_END in the attic all through my childhood , then the trunk was in the garage for ten years .
+5655 Entity-Destination(e1,e2) E1_START Billions E1_END have sunk into devastating E2_START companies E2_END .
+5664 Component-Whole(e2,e1) The E1_START results E1_END are often displayed in E2_START charts E2_END or written as narratives .
+5667 Cause-Effect(e2,e1) The E1_START conflict E1_END is rooted in an ongoing E2_START refusal E2_END by the Palestinians and the Arab world to recognize the right of the Jewish people .
+5674 Member-Collection(e2,e1) Kind-hearted market traders have stepped in to rescue a E1_START litter E1_END of E2_START kittens E2_END which were abandoned under one of their stalls .
+5677 Component-Whole(e1,e2) The number of E1_START sheets E1_END in a E2_START carton E2_END varies for large printing sheets .
+5688 Entity-Destination(e1,e2) They then placed the E1_START fish E1_END in a wooden E2_START barrel E2_END filled with water and fired at the fish with a 9 mm pistol .
+5692 Other E1_START Prospectors E1_END seeking their fortune in the Colorado gold fields traveled to Denver on the Smoky Hill E2_START trail E2_END from Kansas and points east .
+5694 Other Most commercial E1_START pasta E1_END is made by this E2_START method E2_END .
+5704 Component-Whole(e1,e2) Usually only the bottom E1_START lid E1_END of one E2_START eye E2_END is involved , but the top eyelid also can twitch .
+5713 Component-Whole(e1,e2) His E1_START poetry E1_END and fiction have been published in literary E2_START magazines E2_END around the world .
+5737 Other Claiming to have better FM reception than the previous model , this E1_START radio E1_END E2_START tuner E2_END works with both Windows and Mac systems .
+5748 Member-Collection(e2,e1) Goguryeo developed from a E1_START league E1_END of various Yemaek E2_START tribes E2_END to an early state and rapidly expanded its power from their original basin of control in the Hun river drainage .
+5751 Member-Collection(e1,e2) Ultimately , a E1_START soldier E1_END joins the E2_START army E2_END and trains to fight .
+5752 Product-Producer(e1,e2) Following is a E1_START statement E1_END released by the E2_START lawyers E2_END acting on behalf of Humayra Abedin .
+5754 Entity-Destination(e1,e2) At one point in desperation , I poured E1_START flour E1_END into my great aunt 's E2_START hand E2_END and measured how much it could hold .
+5764 Entity-Origin(e1,e2) The E1_START kids E1_END got tuckered out from the bouncy E2_START castle E2_END .
+5769 Entity-Destination(e1,e2) Thanks to the new product , a large E1_START profit E1_END is brought into the E2_START company E2_END .
+5771 Entity-Origin(e2,e1) Coconut rice and E1_START potato E1_END E2_START stew E2_END was a Sunday lunch on a day when I wanted to spend as less time as possible in the kitchen .
+5780 Component-Whole(e1,e2) They learned that some E1_START herbs E1_END and flowers planted in the E2_START garden E2_END help to control pests .
+5791 Other A detailed estimate is built up of many E1_START component E1_END E2_START parts E2_END which may result in cumulative errors .
+5799 Product-Producer(e2,e1) Common ravens are one of only a few E1_START species E1_END who make their own E2_START toys E2_END .
+5807 Entity-Destination(e1,e2) Manufacturers passed on the E1_START costs E1_END to the E2_START consumers E2_END .
+5821 Cause-Effect(e1,e2) The fatal E1_START mistake E1_END caused a E2_START quarrel E2_END between different companies .
+5823 Cause-Effect(e1,e2) Many E1_START disorders E1_END of the stomach and intestines cause nausea and E2_START vomiting E2_END .
+5830 Component-Whole(e2,e1) This LED E1_START system E1_END contains 5 colored LED E2_START bulbs E2_END meant to calm the mind and provide a truly memorable bathing experience .
+5839 Instrument-Agency(e2,e1) On a clear fall night , the E1_START president E1_END had traveled to Dover on a 40-minute E2_START helicopter E2_END ride from the White House .
+5850 Member-Collection(e2,e1) In addition , E1_START herd E1_END E2_START bulls E2_END supply half of the genetics to all the calves he sires ; therefore , bull selection can be the most powerful method of genetic improvement in the herd .
+5865 Product-Producer(e2,e1) The E1_START author E1_END wrote a E2_START book E2_END , Moneyball , that drove baseball 's clubby traditionalists crazy .
+5873 Entity-Origin(e1,e2) The E1_START demonstrators E1_END descended from the E2_START vehicles E2_END and marched five kilometers .
+5876 Instrument-Agency(e2,e1) The E1_START navigator E1_END did his job then with a Plath E2_START sextant E2_END and a chronograph .
+5887 Member-Collection(e2,e1) The pandemic H1N1 flu virus was confirmed in a E1_START flock E1_END of breeder E2_START turkeys E2_END in Virginia .
+5891 Other Two extra-time goals sent the E1_START team E1_END into the Carling E2_START final E2_END .
+5892 Entity-Origin(e1,e2) Buoyed by liberal attitudes such as those , E1_START politicians E1_END across Western Europe are stepping out of the E2_START closet E2_END .
+5907 Content-Container(e1,e2) The E1_START tea bag E1_END was in a E2_START mug E2_END , which made the whole process more straightforward .
+5911 Instrument-Agency(e2,e1) Thorstein has no choice but to ride to the village of Hof and deal with Thord , the E1_START man E1_END who struck him with the E2_START staff E2_END .
+5932 Product-Producer(e1,e2) Here is another E1_START work E1_END from the pen of a vital American E2_START composer E2_END .
+5938 Component-Whole(e1,e2) I took a look at the way and in what direction the E1_START door E1_END of the E2_START dryer E2_END swings open since there was limited space in my laundry room .
+5944 Component-Whole(e1,e2) Shrimp E1_START paste E1_END is a key ingredient used for making Thai E2_START curry E2_END and it is also used in many spicy soups , salads , sauces and stir-fries .
+5953 Other Here , the E1_START coast E1_END comprises coastal E2_START lowlands E2_END that receive the many small rivers flowing from the lake-studded plains of the island 's western half .
+5966 Component-Whole(e2,e1) The morning E1_START session E1_END of the symposium comprises E2_START contributions E2_END from former group members and ends with a reunion lunch for the attendees .
+6005 Entity-Origin(e1,e2) Weights were added to the other side of the balance until E1_START tissue E1_END release from the E2_START choroidal side E2_END was achieved .
+6006 Entity-Destination(e1,e2) Newly generated E1_START pneuroblasts E1_END are migrating into the E2_START dam E2_END .
+6032 Cause-Effect(e2,e1) My earliest research E1_START interest E1_END stemmed from an E2_START internship E2_END at Tall Timbers .
+6060 Component-Whole(e2,e1) This particular X-ray E1_START machine E1_END has a E2_START timer E2_END on it that they used for exposure time .
+6073 Component-Whole(e1,e2) Jack and Jill are lying on the E1_START floor E1_END inside the E2_START house E2_END dead .
+6081 Message-Topic(e2,e1) E1_START Solutions E1_END to these exercises have been provided in the E2_START appendix E2_END .
+6084 Content-Container(e1,e2) The E1_START cocaine E1_END was concealed inside a E2_START teddy bear E2_END .
+6085 Cause-Effect(e2,e1) Even way back in the San Francisco earthquake , most of the damage was caused by E1_START fire E1_END after the E2_START earthquake E2_END .
+6099 Product-Producer(e2,e1) A microbrewery , or craft brewery , is a modern E1_START brewery E1_END which produces a limited amount of E2_START beer E2_END .
+6103 Other The E1_START smile E1_END runs away from the kid 's E2_START face E2_END .
+6107 Component-Whole(e1,e2) The E1_START intestines E1_END and appendix are part of the E2_START gastrointestinal system E2_END .
+6115 Instrument-Agency(e2,e1) Management Unit E1_START personnel E1_END marked private lines with blue E2_START paint E2_END .
+6118 Content-Container(e1,e2) The E1_START tea E1_END was in a E2_START cup E2_END and not as the menu suggested in a pot .
+6122 Other I hear it , too , in the lovely expansiveness of his work as a E1_START chamber E1_END E2_START musician E2_END .
+6129 Instrument-Agency(e2,e1) A former E1_START prostitute E1_END finds a professional job with the help of a training E2_START program E2_END .
+6134 Product-Producer(e1,e2) Frankies 457 Spuntino is a cozy tin-ceilinged E1_START trattoria E1_END founded by a E2_START pair E2_END of Italian American pals from Queens - both named Frankie .
+6135 Instrument-Agency(e2,e1) In that case , the E1_START doctor E1_END stops the bleeding with E2_START hormones E2_END .
+6142 Component-Whole(e2,e1) The E1_START fuselage E1_END accommodated a camera bay , flare bay and an additional fuel E2_START tank E2_END .
+6158 Entity-Origin(e2,e1) The key to drinking E1_START ginger E1_END E2_START ale E2_END for an upset stomach is to make sure it actually HAS ginger in it .
+6165 Cause-Effect(e2,e1) A method of mitigating the effect of a market E1_START spike E1_END caused by the triggering and the E2_START election E2_END of a conditional order includes monitoring conditional orders .
+6185 Component-Whole(e1,e2) There is a cluster of nerves that is located below each ear and at the E1_START hinge E1_END of the E2_START jaw E2_END .
+6189 Product-Producer(e1,e2) These maps are from an E1_START atlas E1_END made by the French E2_START mapmaker E2_END , Guillaume De L'Isle in about 1740 .
+6191 Entity-Destination(e1,e2) For the past hundred or so years , the culverts have drained E1_START storm runoff E1_END into San Ramon E2_START creek E2_END .
+6218 Product-Producer(e1,e2) For example , during a chorus later in the E1_START song E1_END , the E2_START composer E2_END has interjected musical elements from the bridge .
+6230 Content-Container(e2,e1) When she had her last surgery in March , her grandma got her a E1_START suitcase E1_END with new E2_START pajamas E2_END in it .
+6231 Other The E1_START student E1_END demonstrates his/her understanding through active E2_START participation E2_END in the learning process .
+6237 Other The E1_START slope E1_END is going away from the E2_START house E2_END .
+6250 Product-Producer(e2,e1) The E1_START piper E1_END made many recordings , including an E2_START album E2_END called The King of the Highland Pipers .
+6263 Cause-Effect(e2,e1) Fungal growth and aflatoxin E1_START contamination E1_END are caused by the following factors : warm temperature , high E2_START humidity E2_END and poor soil condition .
+6283 Other Sotheby 's yesterday in Hong Kong sold a E1_START diamond E1_END E2_START ring E2_END containing a 8.74 carat blue diamond for 3.5 m pounds .
+6286 Message-Topic(e1,e2) The E1_START case studies E1_END detail where E2_START refugees E2_END come from now and in the past .
+6287 Content-Container(e1,e2) The E1_START ice E1_END was contained in a 10 cm thick insulating foam-lined E2_START box E2_END .
+6295 Component-Whole(e2,e1) This E1_START apartment E1_END has a E2_START lounge area E2_END with 1 sofa bed and a separate bedroom with 1 double bed -LRB- twin beds not available -RRB- .
+6299 Message-Topic(e1,e2) The E1_START parable E1_END related the E2_START rewards E2_END for those who invested successfully and the punishment for those who did not .
+6340 Cause-Effect(e2,e1) The E1_START cramps E1_END are caused by the E2_START anxiety reaction E2_END but because the sufferer has high anxiety , they can be interpreted in other ways ; fears grow and the anxiety worsens .
+6354 Component-Whole(e1,e2) The chicken in a bag on the E1_START floor E1_END of the E2_START bus E2_END does n't seem to appreciate the driver 's hard breaking .
+6378 Other At his inauguration in November , he pledged a fresh start after an election marred by fraud and violence , but disappointed many by presenting a E1_START cabinet E1_END of familiar E2_START names E2_END .
+6387 Instrument-Agency(e2,e1) The E1_START students E1_END labelled the 13 colonies using a E2_START map E2_END .
+6402 Entity-Origin(e1,e2) The drama unfolded shortly after 7pm last Tuesday -LRB- December 22 -RRB- , when Glyn saw that E1_START smoke E1_END was coming from a E2_START bonfire E2_END .
+6407 Cause-Effect(e1,e2) Nasal E1_START dryness E1_END causes nosebleeds , E2_START coughing E2_END , wheezing , and other short-term respiratory problems .
+6413 Other The internal E1_START payoff E1_END is rooted in the psychological E2_START cost E2_END of preference falsification .
+6422 Message-Topic(e1,e2) This E1_START chapter E1_END gives an introduction , and a brief overview of the most important optimization E2_START techniques E2_END .
+6452 Component-Whole(e2,e1) Bob Oblong 's suggestions have been used as kindling for the E1_START factory E1_END 's E2_START furnace E2_END .
+6469 Cause-Effect(e1,e2) Systemically , dust and E1_START fume E1_END cause irritation of the upper respiratory tract , metallic taste and E2_START nausea E2_END .
+6480 Component-Whole(e1,e2) The E1_START chassis E1_END of the E2_START truck E2_END has two wooden beams fixed to it , which carry the body framework ; two monorails .
+6486 Cause-Effect(e1,e2) The E1_START transmitter E1_END sends a radio E2_START signal E2_END to the doorbell radio receiver inside the building .
+6492 Product-Producer(e1,e2) The E1_START products E1_END manufactured by this E2_START firm E2_END still continue to be chiefly dyestuffs .
+6502 Cause-Effect(e2,e1) When it was closer she saw the E1_START light E1_END was coming from a E2_START flashlight E2_END being carried in the mouth of a large black Scottie dog , its muzzle gray with age .
+6512 Message-Topic(e1,e2) The E1_START programme E1_END of events has been organised around five main E2_START themes E2_END .
+6525 Component-Whole(e1,e2) The old brick walls , the smell of paper and the big E1_START couch E1_END in the E2_START shop E2_END all help to create the image of a comfortable place where people would want to spend time .
+6532 Content-Container(e1,e2) The E1_START seed E1_END was discovered inside a E2_START jar E2_END full of the discarded pits of dates during excavations of Masada in the 1960s .
+6537 Entity-Origin(e1,e2) It was the whole world to a sun E1_START boy E1_END who was born in a refugee E2_START camp E2_END .
+6552 Other The saving from the introduction of a single E1_START machine E1_END for flange hole E2_START drilling E2_END was 15500 rubles .
+6554 Cause-Effect(e1,e2) Her unexpected E1_START elimination E1_END caused a E2_START riot E2_END on the Internet , and one blog site -LRB- SOHH.com -RRB- referred to her elimination episode as the one where the show lost all credibility .
+6557 Content-Container(e2,e1) Vinegar flies are capable of living off alcohol fumes , alas , so it is enough toput out a E1_START bottle E1_END with E2_START attractant E2_END in it .
+6566 Instrument-Agency(e1,e2) Mind you , a E1_START backpack E1_END is interpreted as a sign of E2_START geeks E2_END .
+6570 Message-Topic(e1,e2) The E1_START news E1_END that the E2_START stock-index futures E2_END have been approved stimulated Wednesday 's market .
+6604 Product-Producer(e1,e2) He also went on to found NeXT Inc. , a E1_START computer E1_END E2_START company E2_END that built machines with futuristic designs .
+6607 Instrument-Agency(e2,e1) William Durand ' book on the E1_START clergy E1_END and their E2_START vestments E2_END was the topic of the discussion .
+6625 Product-Producer(e2,e1) Given the E1_START factory E1_END 's primary product is E2_START condoms E2_END , the gay community 's support is essential .
+6666 Message-Topic(e2,e1) The E1_START weather E1_END is a constant topic of E2_START conversation E2_END , especially of course when it comes to climate change .
+6683 Component-Whole(e1,e2) The roaring chainsword bit into the E1_START haft E1_END of the E2_START axe E2_END , just below the massive blade .
+6700 Message-Topic(e1,e2) The Commission is accepting E1_START comments E1_END regarding the program 's E2_START adherence E2_END to the Accreditation Standards .
+6721 Product-Producer(e1,e2) A E1_START textile E1_END E2_START mill E2_END is a factory for making textiles .
+6744 Cause-Effect(e1,e2) The amide-linked local E1_START anesthetics E1_END , bupivacaine and ropivacaine , cause E2_START depression E2_END of cardiac contractility and dysrhythmias .
+6748 Other The functionalist E1_START approach E1_END tries to explain the E2_START convergence E2_END of modern welfare states .
+6756 Entity-Destination(e1,e2) Ten E1_START applications E1_END are automatically entered into a monthly E2_START prize draw E2_END .
+6757 Member-Collection(e2,e1) George Clooney , Ewan McGregor , Kevin Spacey and Jeff Bridges are in top form in this uproarious tale about a top-secret E1_START brigade E1_END of psychic E2_START soldiers E2_END trained in New Age warfare .
+6762 Component-Whole(e2,e1) Years later , and here I am , thirteen years old , the E1_START child E1_END with her E2_START nose E2_END pressed up against the window waving goodbye .
+6772 Product-Producer(e2,e1) But what is not seen in the television pictures , is the almost invisible army of 7000 migrant E1_START workers E1_END who built the iconic E2_START structure E2_END .
+6782 Other The E1_START protein molecule E1_END has come into E2_START existence E2_END by natural processes .
+6785 Product-Producer(e2,e1) The E1_START puppet E1_END , who rose to fame through a children 's TV show called The Den , has recorded a string of hit E2_START records E2_END , including Dustin Unplucked .
+6810 Entity-Destination(e1,e2) A young E1_START couple E1_END travelled into the Australian E2_START outback E2_END .
+6822 Other The E1_START team E1_END won the Association 's championship with some E2_START regularity E2_END .
+6841 Member-Collection(e2,e1) In the past couple of days , a small E1_START army E1_END of E2_START bloggers E2_END and journalists have indicated that they 're heading for SES Chicago .
+6857 Message-Topic(e1,e2) A E1_START question E1_END was raised in relation to the partnership E2_START arrangements E2_END in Germany .
+6861 Entity-Destination(e1,e2) The E1_START pieces E1_END are falling into E2_START place E2_END .
+6863 Cause-Effect(e1,e2) The analysis E1_START device E1_END instigates the E2_START termination E2_END of the connection .
+6885 Entity-Origin(e1,e2) The first workers ' E1_START committee E1_END was formed in Yamit E2_START factory E2_END .
+6894 Cause-Effect(e1,e2) Heavy E1_START thunderstorms E1_END caused E2_START cancellation E2_END of races later in the afternoon preventing the Masters Mens fours and Masters Womens and Womens eights from racing .
+6905 Entity-Destination(e1,e2) The porter passed on the E1_START licence E1_END to the E2_START wife E2_END and the daughter .
+6913 Other The E1_START dialect E1_END spoken in the South Karelian Region of Finland is part of the South Eastern dialects of the Finnish E2_START language E2_END .
+6914 Other E1_START Climate change E1_END is the topic of the E2_START day E2_END .
+6917 Other His promised bride was already in great E1_START peril E1_END from the twisted love of an insane E2_START suitor E2_END .
+6927 Entity-Destination(e1,e2) The spices took E1_START pasta E1_END into Moroccan E2_START territory E2_END .
+6939 Entity-Destination(e1,e2) Someone leaked the secret E1_START document E1_END to a E2_START journalist E2_END .
+6974 Component-Whole(e1,e2) As part of their class , titled `` Sustainable Building Design , '' the students analyze the E1_START components E1_END of the E2_START building E2_END that play a role in the structure 's environmental impact , such as insulation , water usage and drainage , and the heating , ventilation and air conditioning -LRB- HVAC -RRB- system .
+6977 Member-Collection(e2,e1) Lake St. Lucia , Africa 's largest estuary , is home to the greatest E1_START congregation E1_END of E2_START hippos E2_END and crocodiles in South Africa .
+6982 Cause-Effect(e2,e1) The E1_START perturbations E1_END caused by the substorm related field-aligned E2_START currents E2_END are most notable in the east-west deflections of the geosynchronous magnetic field .
+6989 Message-Topic(e2,e1) This public E1_START debate E1_END has been reflected in widely advertised E2_START series E2_END in the popular magazines and by numerous analysts .
+6993 Content-Container(e2,e1) These children have given up everything - all they own now is a E1_START suitcase E1_END with E2_START clothes E2_END in it .
+6996 Other The E1_START cockpit E1_END accommodated a E2_START crew E2_END of three , including pilot , radar operator , and sensor operator .
+7001 Cause-Effect(e2,e1) The author clearly got a great deal of E1_START pleasure E1_END from the E2_START work E2_END and did not allow his vast amount of material to force him into shallow generalizations .
+7017 Message-Topic(e1,e2) In 2006 , the International Astronomical Union officially adopted a E1_START resolution E1_END defining E2_START planets E2_END within the Solar System .
+7033 Cause-Effect(e2,e1) We are aware that E1_START acne E1_END or pimples are caused by E2_START hormonal imbalance E2_END , improper skin care or bad eating habits .
+7035 Instrument-Agency(e1,e2) By contrast , the E1_START robot E1_END lets the E2_START operator E2_END just queue raw stock and walk away , returning later to pick up completed parts in the unload queue .
+7040 Other He established a new administrative system , sent a regiment of regular troops which quelled the lroquois , and then invested vast sums in economicdevelopment , establishing new industries such as lumbering and shipbuilding and subsidizing the immigration of skilled and unskilled labor , and marriageable girls for the E1_START superfluity E1_END of E2_START bachelors E2_END .
+7045 Cause-Effect(e1,e2) The confrontation between Martyn and Liz earlier ended with a E1_START struggle E1_END that resulted in Martyn 's E2_START drowning E2_END .
+7049 Cause-Effect(e2,e1) The Lancet study already demonstrated that , as of July 2006 , the E1_START deaths E1_END caused by the U.S. E2_START invasion E2_END of Iraq rivaled the death toll of the 1994 Rwandan genocide .
+7090 Message-Topic(e1,e2) The E1_START guide E1_END depicts the E2_START chronological order E2_END of electronic music genres ' appearance .
+7107 Entity-Origin(e1,e2) It was probable that the Mn E1_START atom E1_END went away from an interstitial E2_START site E2_END neighboring on the substitutional Pt atom after the dissociation of the Pt.Mn complex .
+7123 Component-Whole(e1,e2) So I was looking at the E1_START ceiling E1_END in my E2_START kitchen E2_END yelling at God .
+7130 Product-Producer(e2,e1) Eventually the E1_START company E1_END manufactured the E2_START machines E2_END .
+7134 Other In a preliminary investigation , Cheddar E1_START cheese E1_END was made with a lactococcal E2_START starter E2_END overproducing different peptidases .
+7142 Entity-Origin(e1,e2) The basement E1_START carpeting E1_END is made from recycled plastic pop E2_START bottles E2_END , and the underpad was once automobile tires .
+7147 Product-Producer(e1,e2) We 're always looking for E1_START feedback E1_END from E2_START readers E2_END and articles to highlight .
+7165 Content-Container(e1,e2) The E1_START acid E1_END is kept in a level-controlled E2_START tank E2_END -LRB- with a controller and an alarm in the event of low acid level -RRB- .
+7178 Other A E1_START marinade E1_END that contains E2_START acid E2_END , alcohol or salt has been used for a short time .
+7189 Other A pop-up roll cage and active headrests aim to protect occupants during a rollover , and the E1_START floorboard E1_END is made from E2_START bamboo E2_END and aluminum .
+7194 Cause-Effect(e2,e1) I derive tremendous pleasure and E1_START fulfillment E1_END from E2_START teaching E2_END , particularly when I am able to help students understand a previously foreign concept or idea , aid them in seeing a familiar object or event from a new and unusual perspective , guide them with projects they are working on , or encourage the interests they have .
+7214 Instrument-Agency(e2,e1) The E1_START device E1_END uses the newest personal antenna E2_START technology E2_END .
+7224 Instrument-Agency(e2,e1) It was the only time the E1_START president E1_END has wielded the E2_START veto pen E2_END during his six years in office .
+7231 Other With its non-slip , ambidextrous grip , the E1_START peeler E1_END glides effortlessly through E2_START foods E2_END .
+7252 Cause-Effect(e1,e2) The E1_START filament E1_END emits a yellowish-white E2_START light E2_END , and the walls have a strong yellow tint .
+7254 Instrument-Agency(e2,e1) The E1_START hairdresser E1_END took his E2_START scissors E2_END and held up a coil of hair .
+7262 Instrument-Agency(e2,e1) Electron E1_START microscopes E1_END are scientific instruments that use a E2_START beam E2_END of highly energetic electrons to examine objects on a very fine scale .
+7264 Other Quality forged pinking E1_START scissors E1_END cut with exceptional E2_START ease E2_END and efficiency .
+7270 Cause-Effect(e1,e2) The E1_START transmitter E1_END generates the electromagnetic E2_START wave E2_END , some of which will be incident on the receiver .
+7278 Cause-Effect(e2,e1) The period of tumor E1_START shrinkage E1_END after radiation E2_START therapy E2_END is often long and varied -LRB- mean 29 months -RRB- .
+7281 Entity-Origin(e1,e2) This Appalachian region had been settled by E1_START emigrants E1_END from the E2_START lowlands E2_END .
+7296 Other The E1_START move E1_END from binary E2_START access E2_END -LRB- yes or no -RRB- to fine-grained authorization betrays a shift in mindset : from a defensible perimeter to a qualifier that identifies who can access what room .
+7306 Other The E1_START micropump E1_END is fabricated by the E2_START anisotropic etching E2_END , the boron diffusion and the metal evaporation .
+7350 Member-Collection(e1,e2) Yet 14 E1_START members E1_END in the Lebanese parliament are from the Hezbollah E2_START party E2_END .
+7367 Other In contrast , clay-textured soils are more difficult to prepare a E1_START canola E1_END E2_START seedbed E2_END because the clods can be too large when worked wet , and they tend to crust once worked to a fine seedbed .
+7373 Other The E1_START detainee E1_END is kept in the E2_START cell E2_END 23.5 hours a day .
+7394 Other The E1_START introduction E1_END of the gas stove , the electric mixer and the food processor made the E2_START process E2_END easier , faster and more reliable .
+7422 Instrument-Agency(e2,e1) The E1_START physician E1_END brought only his E2_START stethoscope E2_END and otoscope .
+7424 Entity-Origin(e1,e2) His favorite E1_START wine E1_END was made with the Loire Valley red wine E2_START grape E2_END .
+7439 Instrument-Agency(e2,e1) Well , this E1_START footballer E1_END kicked the E2_START ball E2_END the hardest he could and hit me .
+7446 Other The E1_START kitchen E1_END holds many E2_START opportunities E2_END for teaching kids as well as having fun .
+7452 Component-Whole(e2,e1) The E1_START kitchen E1_END contents include an ice dispensing E2_START refrigerator E2_END , ovens , a toaster , and a coffee maker .
+7457 Entity-Origin(e1,e2) The E1_START data E1_END are derived primarily from a three-nation E2_START survey E2_END conducted for the Harvard School of Public Health and The Robert Wood Johnson Foundation by Louis Harris and Associates and its international affiliates between 10 June and 14 September 1994 .
+7465 Other Entering the E1_START fissure E1_END created by the meteor 's E2_START impact E2_END , Sephiroth merged with all the energy of the planet , granting him god-like power over it .
+7471 Instrument-Agency(e2,e1) E1_START Judges E1_END wear the bench E2_START wig E2_END when they are sitting in court .
+7490 Entity-Origin(e2,e1) The E1_START land E1_END was farmed for E2_START cattle E2_END , but segments of the forests were sold off and the chapel fell into disrepair .
+7495 Entity-Origin(e1,e2) The E1_START person E1_END fell from the E2_START tree E2_END .
+7497 Entity-Origin(e1,e2) Once it was the middle of winter , and the E1_START snowflakes E1_END fell from the E2_START sky E2_END like feathers .
+7503 Other The E1_START plane E1_END makes a parabolic E2_START maneuver E2_END , much like a roller coaster with steep climbs and descents , that simulates zero gravity conditions .
+7506 Cause-Effect(e2,e1) E1_START Hitting E1_END out of E2_START anger E2_END is absolutely wrong .
+7522 Cause-Effect(e1,e2) Another E1_START drinking E1_END E2_START accident E2_END happened in the Gallup area the other day , which is plagued by drinking and driving accidents .
+7528 Product-Producer(e1,e2) Her employment at this E1_START mustard E1_END E2_START company E2_END is considered the earliest recorded evidence of a company specifically hiring an industrial nurse .
+7534 Entity-Destination(e1,e2) Beginning in 1966-67 , the E1_START club E1_END made the E2_START playoffs E2_END nine consecutive seasons , the only NHL team of the period to accomplish that feat .
+7536 Instrument-Agency(e2,e1) The E1_START author E1_END applied the above-mentioned simple E2_START dovetailer E2_END to all computable universes .
+7542 Other They often have a E1_START pump E1_END over the drainage E2_START hole E2_END to draw the waste water towards it .
+7553 Cause-Effect(e2,e1) Before doing for his hair E1_START reduction E1_END by laser E2_START treatment E2_END , he first consulted with a dermatologist .
+7559 Other The E1_START students E1_END designed the home 's living E2_START areas E2_END with an eye toward making a small house feel spacious .
+7567 Component-Whole(e1,e2) It often becomes necessary to delete E1_START objects E1_END from the E2_START chart E2_END during the course of monitoring system performance .
+7572 Other The E1_START clutter E1_END in my E2_START house E2_END was destroying me .
+7576 Other With lyrical descriptions of landscape and terse , unpunctuated dialogue , a distinctive E1_START voice E1_END powered a gripping E2_START story E2_END .
+7587 Product-Producer(e2,e1) E1_START Trees E1_END grow E2_START seeds E2_END .
+7590 Cause-Effect(e2,e1) Thatch is caused by excessive E1_START growth E1_END from E2_START overfertilizing E2_END , by allowing the grass to get too high before mowing , or by incorrect watering .
+7597 Content-Container(e2,e1) The E1_START box E1_END holds our E2_START pool equipment E2_END perfectly .
+7606 Other E1_START Heating E1_END E2_START oil E2_END is a refined oil made from petroleum , used in furnaces to heat buildings .
+7620 Other They understand the E1_START stakes E1_END from a personal E2_START perspective E2_END , as well , since the extremists have tried to assassinate them .
+7624 Product-Producer(e2,e1) PHY 319 is presently taught in three 50-minute lectures per week in which the E1_START instructor E1_END makes a chalkboard E2_START presentation E2_END .
+7638 Product-Producer(e2,e1) These first person accounts humanize history as readers share the experiences of American prosecutors , security personnel , journalists , and even the E1_START architect E1_END who designed the E2_START courtroom E2_END .
+7643 Instrument-Agency(e2,e1) The E1_START patient E1_END literally sawed it in half using a hard E2_START toothbrush E2_END over a period of many years .
+7654 Cause-Effect(e2,e1) The E1_START taste E1_END is from the E2_START ginseng E2_END , not alcohol .
+7655 Other In each E1_START house E1_END lives a E2_START person E2_END with a different nationality .
+7659 Entity-Origin(e1,e2) The E1_START pollen E1_END is derived from a podocarp/broadleaved E2_START forest E2_END , which probably . covered both the alluvial flats and sides of the valley .
+7662 Other Nausea is the sensation of unease and E1_START discomfort E1_END from the E2_START stomach E2_END , with the sufferers feeling that they may vomit .
+7665 Entity-Origin(e1,e2) Recruiting talented computer E1_START scientists E1_END from underrepresented E2_START communities E2_END is important to current and future workforce needs of the Computation Directorate as well as the Laboratory as a whole .
+7676 Cause-Effect(e2,e1) About 30 ducks were found dead in Klamath County in the past two days , and officials are investigating whether the E1_START deaths E1_END are from a cholera E2_START outbreak E2_END .
+7679 Cause-Effect(e2,e1) Most of the E1_START taste E1_END of strong onions comes from the E2_START smell E2_END .
+7684 Product-Producer(e2,e1) The E1_START lady E1_END made the E2_START photocopies E2_END , pushed a few more keys on her computer , and shuffled some papers around .
+7687 Product-Producer(e2,e1) The E1_START demonstrators E1_END composed the E2_START figure E2_END 420 , representing the number of people still being held at the US prison in Cuba .
+7702 Instrument-Agency(e1,e2) Just as the E1_START net E1_END enables the E2_START fisherman E2_END to catch many fish in one go , the pattern was favored by the samurai as it symbolized victory over many opponents at one time .
+7726 Product-Producer(e2,e1) As for camera/lens info , the E1_START photographer E1_END made the E2_START picture E2_END , not the camera .
+7734 Component-Whole(e2,e1) Like many recipes for stuffing , the original E1_START recipe E1_END contained E2_START apples E2_END , but as apples are a higher carb fruit , I have substituted cranberries which have the dual effect of making the stuffing lower carb than the regular recipe and also adding a little extra seasonal color and flavor .
+7736 Content-Container(e2,e1) Among the additional contents of the E1_START box E1_END were a E2_START controller E2_END , an audio/video connector , a plug , and quite a few manuals and booklets .
+7774 Message-Topic(e2,e1) The Board selected a list of expenditure reduction and revenue E1_START increase E1_END from the E2_START list E2_END attached to staff report .
+7781 Cause-Effect(e2,e1) The pipeline had to face the following main concerns from opposition : disturbance of animal migration patterns , environmental E1_START damage E1_END from E2_START spills E2_END , geological concerns and the Alaskan permafrost .
+7802 Entity-Destination(e1,e2) In the lineup , the police literally put the E1_START defendant E1_END in a E2_START line E2_END with other people to see if the victim or witness can identify anyone in the line as having participated in a crime .
+7821 Other E1_START Cooperation E1_END through physical E2_START activity E2_END promotes important life skills .
+7822 Component-Whole(e1,e2) Tapestries of rocky coastlines share wall space with a E1_START clock E1_END inside a ship 's E2_START wheel E2_END .
+7823 Instrument-Agency(e2,e1) Before the E1_START barber E1_END takes his E2_START scissors E2_END out , family , friends and rabbis take turns snipping .
+7830 Entity-Destination(e1,e2) We actually did put E1_START tea E1_END in the E2_START food E2_END .
+7837 Cause-Effect(e1,e2) Short-term disability and long-term E1_START disability E1_END E2_START benefits E2_END are available at no cost to USTelecom employees .
+7852 Product-Producer(e2,e1) The cup 's a bit small but who cares , the E1_START machine E1_END makes E2_START coffee E2_END quickly enough that it 's no problem to just make a second cup .
+7859 Cause-Effect(e2,e1) The E1_START revolution E1_END brought forth impassioned E2_START pleas E2_END condemning the common law for not respecting the interests of the people and calling for law reform .
+7869 Product-Producer(e1,e2) He learned how cartographic evidence refutes the authenticity of the Vinland Map and from where the E1_START map E1_END 's E2_START maker E2_END have drawn inspiration .
+7877 Other The E1_START robber E1_END was inside the E2_START office E2_END when the manager decided to take action and escape out the side door .
+7888 Other Grubs tend to cause significant E1_START damage E1_END from E2_START autumn E2_END to spring by which time the larvae are becoming fully grown .
+7904 Content-Container(e2,e1) Bevan opens a case on the other side of the room and pulls out a E1_START flask E1_END that contains E2_START ale E2_END of the best sort .
+7908 Other The mesopause separates the E1_START mesosphere E1_END from the E2_START thermosphere E2_END .
+7913 Cause-Effect(e2,e1) There is a rise in erratic E1_START behaviour E1_END from substance E2_START abuse E2_END and frustration caused by long waits for hospital treatment .
+7921 Cause-Effect(e1,e2) The spring E1_START molt E1_END produces mottled brown E2_START feathers E2_END , making the female almost invisible as she sits on her nest .
+7972 Other However , the fact that the guinea pigs appeared to function in a normal physiological manner indicates that the E1_START diets E1_END contained the necessary E2_START energy density E2_END .
+7985 Cause-Effect(e2,e1) Eye E1_START discomfort E1_END from this E2_START staring effect E2_END is exacerbated by low humidity .
+7991 Product-Producer(e2,e1) Using an e-prescription module in an electronic record system , the E1_START prescriber E1_END makes out a E2_START prescription E2_END and transfers it to the national e-prescription mailbox .
+7997 Entity-Origin(e1,e2) The E1_START herbicide E1_END is derived from a natural E2_START antibiotic E2_END , which is produced by two strains of a soil bacterium .
+7999 Other The farmers and city officials in the region have tried to get state money to move the E1_START farmers E1_END E2_START market E2_END into a first-class operation and tourist attraction .
