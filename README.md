@@ -93,3 +93,6 @@ os.environ['CLASSPATH'] = "H:/Relation-Classification/stanford/stanford-postagge
 **Creates:**
  * "./model/model.keras" - Model 
 
+## Model CBGRU-MEA
+
+![Model CBGRU-MEA](https://github.com/sahitya0000/Relation-Classification/blob/master/Presentation/ch03-cbgru-mea.jpg)
