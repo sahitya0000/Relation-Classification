@@ -1,5 +1,17 @@
 # Relation-Classification
 
+## Cite Us As 
+```
+@MastersThesis{Sahitya:2018,
+ author = { {Sahitya Patel} and Harish Karnick}, 
+ title = {Multi-Way Classification of Relations Between Pairs of Entities}, 
+ school = {Indian Institute of Technology Kanpur (IITK)}, 
+ address = {India},
+ year = 2018, 
+ month = 6
+}
+```
+
 ## 01_create_train_test_attn
 
 **Description:** Pre-processing of dataset files
