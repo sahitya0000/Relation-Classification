@@ -22,9 +22,11 @@
 
 ## Running the model without preprocessing 
  1. Get preprocessed data. Download "data_all.npy" from [this-link](https://drive.google.com/open?id=1hfPcxG8YFVx5uMx8rkbH0fSJVbSn3PpT) and put it in the folder "./data/". 
- 2. Run 04_CBGRU_MEA_Model
+ 2. Run "04_CBGRU_MEA_Model"
  
-## 01_create_train_test_attn
+## Running the model with preprocessing 
+
+### 01_create_train_test_attn
 
 **Description:** Pre-processing of dataset files
 
@@ -43,7 +45,7 @@ os.environ['CLASSPATH'] = "H:/Relation-Classification/stanford/stanford-postagge
 ```
 2. Run "01_create_train_test_attn"
 
-## 02_train_val_split
+### 02_train_val_split
 
 **Description:** Spliting of the training data into training and validation data
 
@@ -60,7 +62,7 @@ os.environ['CLASSPATH'] = "H:/Relation-Classification/stanford/stanford-postagge
 1. Run "02_train_val_split"
 
 
-## 03_data_preprocess
+### 03_data_preprocess
 
 **Description:** Generating a single input file for the model
 
@@ -73,7 +75,7 @@ os.environ['CLASSPATH'] = "H:/Relation-Classification/stanford/stanford-postagge
 3. Run "03_data_preprocess"
 
 
-## 04_CBGRU_MEA_Model
+### 04_CBGRU_MEA_Model
 
 **Description:** Model training. Best model is saved in ./model folder. 
 
