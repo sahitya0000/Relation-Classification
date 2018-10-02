@@ -77,7 +77,7 @@ os.environ['CLASSPATH'] = "H:/Relation-Classification/stanford/stanford-postagge
 
 ### 04_CBGRU_MEA_Model
 
-**Description:** Model training. Best model is saved in ./model folder. 
+**Description:** Model training. Best model is saved in "./model" folder. 
 
 **Steps:** 
 1. Run "04_CBGRU_MEA_Model"
