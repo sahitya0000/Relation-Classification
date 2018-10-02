@@ -12,6 +12,18 @@
 }
 ```
 
+## Files 
+#### Preprocessing of data
+ * 01_create_train_test_attn
+ * 02_train_val_split
+ * 03_data_preprocess
+#### Model training 
+ * 04_CBGRU_MEA_Model
+
+## Running the model without preprocessing 
+ 1. Get preprocessed data. Download "data_all.npy" from [this-link](https://drive.google.com/open?id=1hfPcxG8YFVx5uMx8rkbH0fSJVbSn3PpT) and put it in the folder "./data/". 
+ 2. Run 04_CBGRU_MEA_Model
+ 
 ## 01_create_train_test_attn
 
 **Description:** Pre-processing of dataset files
