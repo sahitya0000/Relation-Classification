@@ -1,5 +1,7 @@
 # Relation-Classification
 
+Relation Classification - SEMEVAL 2010 task 8 dataset 
+
 ## Cite Us As 
 ```
 @MastersThesis{Sahitya:2018,
