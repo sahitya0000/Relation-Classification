@@ -20,6 +20,13 @@
 #### Model training 
  * 04_CBGRU_MEA_Model
 
+## Environment 
+ * Python 3.5.4 | Anaconda custom (64-bit)
+ * Keras 2.1.5
+ * tensorflow 1.4.0
+ * CUDA compilation tools, release 8.0, V8.0.44 (nvcc --version)
+ * CuDNN 6.0.21
+
 ## Running the model without preprocessing 
  1. Get preprocessed data. Download "data_all.npy" from [this-link](https://drive.google.com/open?id=1hfPcxG8YFVx5uMx8rkbH0fSJVbSn3PpT) and put it in the folder "./data/". 
  2. Run "04_CBGRU_MEA_Model"
