@@ -36,3 +36,26 @@ os.environ['CLASSPATH'] = "H:/Relation-Classification/stanford/stanford-postagge
 1. Run "02_train_val_split"
 
 
+## 03_data_preprocess
+
+**Description:** Generating a single input file for the model
+
+**Creates:**
+ * "./data/data_all.npy"
+
+**Steps:**
+1. Place "GoogleNews-vectors-negative300.bin" in "./word_embeddings" folder. 
+2. Run "./word_embeddings/GoogleNews-vectors-negative300_bin_to_txt.py" to create "./word_embeddings/GoogleNews-vectors-negative300.txt"
+3. Run "03_data_preprocess"
+
+
+## 04_CBGRU_MEA_Model
+
+**Description:** Model training. Best model is saved in ./model folder. 
+
+**Steps:** 
+1. Run "04_CBGRU_MEA_Model"
+
+**Creates:**
+ * "./model/model.keras" - Model 
+
