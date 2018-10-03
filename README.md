@@ -2,6 +2,16 @@
 
 Relation Classification - SEMEVAL 2010 task 8 dataset 
 
+Relation classification is a task of assigning predefined relation labels to the entity pairs that occur in texts. 
+
+Example: 
+
+Sentence: [People]_e1 have been moving back into [downtown]_e2
+
+Relation: Entity-Destination(e1,e2) where e1 = people, e2 = downtown 
+
+
+
 ## Cite Us As 
 ```
 @MastersThesis{Sahitya:2018,
@@ -13,6 +23,14 @@ Relation Classification - SEMEVAL 2010 task 8 dataset
  month = 6
 }
 ```
+
+## Presentation 
+[Relation-Classification-github.pdf](https://github.com/sahitya0000/Relation-Classification/blob/master/Presentation/Relation-Classification-github.pdf)
+
+## Dataset 
+Paper: [SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals](http://www.aclweb.org/anthology/S10-1006)
+
+Zip: [SemEval2010_task8_all_data.zip](https://github.com/sahitya0000/Relation-Classification/blob/master/corpus/SemEval2010_task8_all_data.zip)
 
 ## Files 
 #### Preprocessing of data
