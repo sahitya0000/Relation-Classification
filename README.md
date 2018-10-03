@@ -46,7 +46,7 @@ Zip: [SemEval2010_task8_all_data.zip](https://github.com/sahitya0000/Relation-Cl
  * Perl
 
 ## Running the model without preprocessing 
- 1. Get preprocessed data. Download "data_all.npy" from [this-link](https://drive.google.com/open?id=1hfPcxG8YFVx5uMx8rkbH0fSJVbSn3PpT) and put it in the folder "./data/". 
+ 1. Get preprocessed data. Download "data_all.npy" from [this-link](https://drive.google.com/open?id=1hfPcxG8YFVx5uMx8rkbH0fSJVbSn3PpT) (94.6 MB) and put it in the folder "./data/". 
  2. Run "04_CBGRU_MEA_Model"
  
 ## Running the model with preprocessing 
