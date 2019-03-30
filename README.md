@@ -95,7 +95,7 @@ os.environ['CLASSPATH'] = "H:/Relation-Classification/stanford/stanford-postagge
  * "./data/data_all.npy"
 
 **Steps:**
-1. Place "GoogleNews-vectors-negative300.bin" in "./word_embeddings" folder. 
+1. Place "GoogleNews-vectors-negative300.bin" in "./word_embeddings" folder. ([Download-Link](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit), [Website-word2vec](https://code.google.com/archive/p/word2vec/))
 2. Run "./word_embeddings/GoogleNews-vectors-negative300_bin_to_txt.py" to create "./word_embeddings/GoogleNews-vectors-negative300.txt"
 3. Run "03_data_preprocess"
 
