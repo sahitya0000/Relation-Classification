@@ -1,6 +1,6 @@
 # Relation-Classification
 
-Relation Classification - SEMEVAL 2010 task 8 dataset 
+Relation Classification - SEMEVAL 2010 task 8 dataset (Master's Thesis)
 
 * Relation classification is a task of assigning predefined relation labels to the entity pairs that occur in texts. 
   * Example: 
